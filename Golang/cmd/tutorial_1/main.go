@@ -135,6 +135,15 @@ func main() {
 
 	makeItSpeak(p)
 	makeItSpeak(a)
+
+	//Pointers
+	var po *int32
+	var val int32 = 42
+	po = &val
+	fmt.Println("Value of val:", val)
+	fmt.Println("Address of val:", po)
+	fmt.Println("Value at address po:", *po)
+
 }
 
 // structs and interfaces
