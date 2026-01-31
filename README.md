@@ -3,3 +3,4 @@
 Learning and practicing in:
 - **Golang**
 - **Shell Scripting** 
+- **Python** 
