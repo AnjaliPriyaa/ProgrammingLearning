@@ -1,0 +1,22 @@
+# Anagram = You should check length is same,characters are same and characters occurence are same
+
+s = input()
+a = input()
+
+
+def anagram(s,a):
+    dict1={}
+    dict2={}
+    if len(s)==len(a): 
+        for i,j in zip(s,a): 
+            if i not in s: 
+                dict1[i]=0 
+            if j not in a:
+                dict2[j]=0
+            dict1+=1
+            dict2+=2
+        if dict1==dict2:
+            return True
+    return False
+
+print(anagram(s,a))
