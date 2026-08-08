@@ -1,0 +1,870 @@
+2026-08-08 08:00:00 [ERROR] service=payment-api request_id=req-000000 message=ConnectionRefused
+2026-08-08 08:00:03 [ERROR] service=payment-api request_id=req-000001 message=FileNotFound
+2026-08-08 08:00:06 [ERROR] service=payment-api request_id=req-000002 message=ConnectionRefused
+2026-08-08 08:00:09 [ERROR] service=payment-api request_id=req-000003 message=AuthenticationFailed
+2026-08-08 08:00:12 [INFO] service=payment-api request_id=req-000004 message=User logged in successfully
+2026-08-08 08:00:15 [ERROR] service=payment-api request_id=req-000005 message=PermissionDenied
+2026-08-08 08:00:18 [ERROR] service=payment-api request_id=req-000006 message=DatabaseConnectionFailed
+2026-08-08 08:00:21 [ERROR] service=payment-api request_id=req-000007 message=DatabaseConnectionFailed
+2026-08-08 08:00:24 [INFO] service=payment-api request_id=req-000008 message=Configuration loaded
+2026-08-08 08:00:27 [INFO] service=payment-api request_id=req-000009 message=User logged in successfully
+2026-08-08 08:00:30 [ERROR] service=payment-api request_id=req-000010 message=ConnectionRefused
+2026-08-08 08:00:33 [ERROR] service=payment-api request_id=req-000011 message=DatabaseConnectionFailed
+2026-08-08 08:00:36 [ERROR] service=payment-api request_id=req-000012 message=RateLimitExceeded
+2026-08-08 08:00:39 [INFO] service=payment-api request_id=req-000013 message=User logged in successfully
+2026-08-08 08:00:42 [ERROR] service=payment-api request_id=req-000014 message=Timeout
+2026-08-08 08:00:45 [ERROR] service=payment-api request_id=req-000015 message=Timeout
+2026-08-08 08:00:48 [INFO] service=payment-api request_id=req-000016 message=User logged in successfully
+2026-08-08 08:00:51 [ERROR] service=payment-api request_id=req-000017 message=DatabaseConnectionFailed
+2026-08-08 08:00:54 [INFO] service=payment-api request_id=req-000018 message=User logged in successfully
+2026-08-08 08:00:57 [INFO] service=payment-api request_id=req-000019 message=Background job completed
+2026-08-08 08:01:00 [ERROR] service=payment-api request_id=req-000020 message=AuthenticationFailed
+2026-08-08 08:01:03 [INFO] service=payment-api request_id=req-000021 message=Request completed successfully
+2026-08-08 08:01:06 [INFO] service=payment-api request_id=req-000022 message=Configuration loaded
+2026-08-08 08:01:09 [ERROR] service=payment-api request_id=req-000023 message=AuthenticationFailed
+2026-08-08 08:01:12 [ERROR] service=payment-api request_id=req-000024 message=Timeout
+2026-08-08 08:01:15 [ERROR] service=payment-api request_id=req-000025 message=FileNotFound
+2026-08-08 08:01:18 [ERROR] service=payment-api request_id=req-000026 message=AuthenticationFailed
+2026-08-08 08:01:21 [ERROR] service=payment-api request_id=req-000027 message=PermissionDenied
+2026-08-08 08:01:24 [ERROR] service=payment-api request_id=req-000028 message=Timeout
+2026-08-08 08:01:27 [ERROR] service=payment-api request_id=req-000029 message=ServiceUnavailable
+2026-08-08 08:01:30 [ERROR] service=payment-api request_id=req-000030 message=Timeout
+2026-08-08 08:01:33 [ERROR] service=payment-api request_id=req-000031 message=OutOfMemory
+2026-08-08 08:01:36 [ERROR] service=payment-api request_id=req-000032 message=AuthenticationFailed
+2026-08-08 08:01:39 [ERROR] service=payment-api request_id=req-000033 message=Timeout
+2026-08-08 08:01:42 [ERROR] service=payment-api request_id=req-000034 message=Timeout
+2026-08-08 08:01:45 [ERROR] service=payment-api request_id=req-000035 message=AuthenticationFailed
+2026-08-08 08:01:48 [ERROR] service=payment-api request_id=req-000036 message=CacheMiss
+2026-08-08 08:01:51 [ERROR] service=payment-api request_id=req-000037 message=DatabaseConnectionFailed
+2026-08-08 08:01:54 [ERROR] service=payment-api request_id=req-000038 message=PermissionDenied
+2026-08-08 08:01:57 [INFO] service=payment-api request_id=req-000039 message=Request completed successfully
+2026-08-08 08:02:00 [ERROR] service=payment-api request_id=req-000040 message=DatabaseConnectionFailed
+2026-08-08 08:02:03 [INFO] service=payment-api request_id=req-000041 message=Configuration loaded
+2026-08-08 08:02:06 [ERROR] service=payment-api request_id=req-000042 message=CacheMiss
+2026-08-08 08:02:09 [ERROR] service=payment-api request_id=req-000043 message=FileNotFound
+2026-08-08 08:02:12 [ERROR] service=payment-api request_id=req-000044 message=DatabaseConnectionFailed
+2026-08-08 08:02:15 [ERROR] service=payment-api request_id=req-000045 message=ConnectionRefused
+2026-08-08 08:02:18 [ERROR] service=payment-api request_id=req-000046 message=ConnectionRefused
+2026-08-08 08:02:21 [ERROR] service=payment-api request_id=req-000047 message=ServiceUnavailable
+2026-08-08 08:02:24 [ERROR] service=payment-api request_id=req-000048 message=AuthenticationFailed
+2026-08-08 08:02:27 [ERROR] service=payment-api request_id=req-000049 message=ConnectionRefused
+2026-08-08 08:02:30 [ERROR] service=payment-api request_id=req-000050 message=InvalidToken
+2026-08-08 08:02:33 [ERROR] service=payment-api request_id=req-000051 message=DatabaseConnectionFailed
+2026-08-08 08:02:36 [ERROR] service=payment-api request_id=req-000052 message=AuthenticationFailed
+2026-08-08 08:02:39 [ERROR] service=payment-api request_id=req-000053 message=ConnectionRefused
+2026-08-08 08:02:42 [ERROR] service=payment-api request_id=req-000054 message=DatabaseConnectionFailed
+2026-08-08 08:02:45 [ERROR] service=payment-api request_id=req-000055 message=OutOfMemory
+2026-08-08 08:02:48 [ERROR] service=payment-api request_id=req-000056 message=InvalidRequest
+2026-08-08 08:02:51 [ERROR] service=payment-api request_id=req-000057 message=Timeout
+2026-08-08 08:02:54 [ERROR] service=payment-api request_id=req-000058 message=DatabaseConnectionFailed
+2026-08-08 08:02:57 [ERROR] service=payment-api request_id=req-000059 message=Timeout
+2026-08-08 08:03:00 [INFO] service=payment-api request_id=req-000060 message=Request completed successfully
+2026-08-08 08:03:03 [ERROR] service=payment-api request_id=req-000061 message=DatabaseConnectionFailed
+2026-08-08 08:03:06 [ERROR] service=payment-api request_id=req-000062 message=Timeout
+2026-08-08 08:03:09 [ERROR] service=payment-api request_id=req-000063 message=ConnectionRefused
+2026-08-08 08:03:12 [ERROR] service=payment-api request_id=req-000064 message=OutOfMemory
+2026-08-08 08:03:15 [ERROR] service=payment-api request_id=req-000065 message=FileNotFound
+2026-08-08 08:03:18 [ERROR] service=payment-api request_id=req-000066 message=FileNotFound
+2026-08-08 08:03:21 [ERROR] service=payment-api request_id=req-000067 message=PermissionDenied
+2026-08-08 08:03:24 [ERROR] service=payment-api request_id=req-000068 message=OutOfMemory
+2026-08-08 08:03:27 [ERROR] service=payment-api request_id=req-000069 message=DatabaseConnectionFailed
+2026-08-08 08:03:30 [ERROR] service=payment-api request_id=req-000070 message=OutOfMemory
+2026-08-08 08:03:33 [ERROR] service=payment-api request_id=req-000071 message=OutOfMemory
+2026-08-08 08:03:36 [ERROR] service=payment-api request_id=req-000072 message=RateLimitExceeded
+2026-08-08 08:03:39 [ERROR] service=payment-api request_id=req-000073 message=AuthenticationFailed
+2026-08-08 08:03:42 [ERROR] service=payment-api request_id=req-000074 message=AuthenticationFailed
+2026-08-08 08:03:45 [ERROR] service=payment-api request_id=req-000075 message=OutOfMemory
+2026-08-08 08:03:48 [INFO] service=payment-api request_id=req-000076 message=Request completed successfully
+2026-08-08 08:03:51 [ERROR] service=payment-api request_id=req-000077 message=AuthenticationFailed
+2026-08-08 08:03:54 [ERROR] service=payment-api request_id=req-000078 message=PermissionDenied
+2026-08-08 08:03:57 [ERROR] service=payment-api request_id=req-000079 message=OutOfMemory
+2026-08-08 08:04:00 [ERROR] service=payment-api request_id=req-000080 message=Timeout
+2026-08-08 08:04:03 [ERROR] service=payment-api request_id=req-000081 message=OutOfMemory
+2026-08-08 08:04:06 [ERROR] service=payment-api request_id=req-000082 message=Timeout
+2026-08-08 08:04:09 [ERROR] service=payment-api request_id=req-000083 message=FileNotFound
+2026-08-08 08:04:12 [INFO] service=payment-api request_id=req-000084 message=Request completed successfully
+2026-08-08 08:04:15 [ERROR] service=payment-api request_id=req-000085 message=DatabaseConnectionFailed
+2026-08-08 08:04:18 [ERROR] service=payment-api request_id=req-000086 message=OutOfMemory
+2026-08-08 08:04:21 [ERROR] service=payment-api request_id=req-000087 message=AuthenticationFailed
+2026-08-08 08:04:24 [INFO] service=payment-api request_id=req-000088 message=Background job completed
+2026-08-08 08:04:27 [ERROR] service=payment-api request_id=req-000089 message=FileNotFound
+2026-08-08 08:04:30 [ERROR] service=payment-api request_id=req-000090 message=CacheMiss
+2026-08-08 08:04:33 [ERROR] service=payment-api request_id=req-000091 message=PermissionDenied
+2026-08-08 08:04:36 [ERROR] service=payment-api request_id=req-000092 message=FileNotFound
+2026-08-08 08:04:39 [ERROR] service=payment-api request_id=req-000093 message=FileNotFound
+2026-08-08 08:04:42 [ERROR] service=payment-api request_id=req-000094 message=DatabaseConnectionFailed
+2026-08-08 08:04:45 [INFO] service=payment-api request_id=req-000095 message=Request completed successfully
+2026-08-08 08:04:48 [ERROR] service=payment-api request_id=req-000096 message=FileNotFound
+2026-08-08 08:04:51 [ERROR] service=payment-api request_id=req-000097 message=OutOfMemory
+2026-08-08 08:04:54 [ERROR] service=payment-api request_id=req-000098 message=InvalidRequest
+2026-08-08 08:04:57 [ERROR] service=payment-api request_id=req-000099 message=AuthenticationFailed
+2026-08-08 08:05:00 [ERROR] service=payment-api request_id=req-000100 message=Timeout
+2026-08-08 08:05:03 [ERROR] service=payment-api request_id=req-000101 message=ConnectionRefused
+2026-08-08 08:05:06 [ERROR] service=payment-api request_id=req-000102 message=InvalidRequest
+2026-08-08 08:05:09 [ERROR] service=payment-api request_id=req-000103 message=DatabaseConnectionFailed
+2026-08-08 08:05:12 [ERROR] service=payment-api request_id=req-000104 message=ConnectionRefused
+2026-08-08 08:05:15 [ERROR] service=payment-api request_id=req-000105 message=Timeout
+2026-08-08 08:05:18 [ERROR] service=payment-api request_id=req-000106 message=OutOfMemory
+2026-08-08 08:05:21 [ERROR] service=payment-api request_id=req-000107 message=Timeout
+2026-08-08 08:05:24 [ERROR] service=payment-api request_id=req-000108 message=RateLimitExceeded
+2026-08-08 08:05:27 [ERROR] service=payment-api request_id=req-000109 message=AuthenticationFailed
+2026-08-08 08:05:30 [ERROR] service=payment-api request_id=req-000110 message=Timeout
+2026-08-08 08:05:33 [ERROR] service=payment-api request_id=req-000111 message=PermissionDenied
+2026-08-08 08:05:36 [INFO] service=payment-api request_id=req-000112 message=Health check passed
+2026-08-08 08:05:39 [ERROR] service=payment-api request_id=req-000113 message=ServiceUnavailable
+2026-08-08 08:05:42 [ERROR] service=payment-api request_id=req-000114 message=FileNotFound
+2026-08-08 08:05:45 [ERROR] service=payment-api request_id=req-000115 message=AuthenticationFailed
+2026-08-08 08:05:48 [INFO] service=payment-api request_id=req-000116 message=Health check passed
+2026-08-08 08:05:51 [ERROR] service=payment-api request_id=req-000117 message=OutOfMemory
+2026-08-08 08:05:54 [ERROR] service=payment-api request_id=req-000118 message=Timeout
+2026-08-08 08:05:57 [ERROR] service=payment-api request_id=req-000119 message=FileNotFound
+2026-08-08 08:06:00 [ERROR] service=payment-api request_id=req-000120 message=Timeout
+2026-08-08 08:06:03 [INFO] service=payment-api request_id=req-000121 message=Background job completed
+2026-08-08 08:06:06 [ERROR] service=payment-api request_id=req-000122 message=DatabaseConnectionFailed
+2026-08-08 08:06:09 [ERROR] service=payment-api request_id=req-000123 message=ConnectionRefused
+2026-08-08 08:06:12 [ERROR] service=payment-api request_id=req-000124 message=PermissionDenied
+2026-08-08 08:06:15 [INFO] service=payment-api request_id=req-000125 message=Configuration loaded
+2026-08-08 08:06:18 [INFO] service=payment-api request_id=req-000126 message=User logged in successfully
+2026-08-08 08:06:21 [ERROR] service=payment-api request_id=req-000127 message=OutOfMemory
+2026-08-08 08:06:24 [INFO] service=payment-api request_id=req-000128 message=Request completed successfully
+2026-08-08 08:06:27 [ERROR] service=payment-api request_id=req-000129 message=Timeout
+2026-08-08 08:06:30 [ERROR] service=payment-api request_id=req-000130 message=OutOfMemory
+2026-08-08 08:06:33 [ERROR] service=payment-api request_id=req-000131 message=ConnectionRefused
+2026-08-08 08:06:36 [ERROR] service=payment-api request_id=req-000132 message=RateLimitExceeded
+2026-08-08 08:06:39 [ERROR] service=payment-api request_id=req-000133 message=CacheMiss
+2026-08-08 08:06:42 [ERROR] service=payment-api request_id=req-000134 message=ConnectionRefused
+2026-08-08 08:06:45 [ERROR] service=payment-api request_id=req-000135 message=DatabaseConnectionFailed
+2026-08-08 08:06:48 [ERROR] service=payment-api request_id=req-000136 message=FileNotFound
+2026-08-08 08:06:51 [ERROR] service=payment-api request_id=req-000137 message=ConnectionRefused
+2026-08-08 08:06:54 [ERROR] service=payment-api request_id=req-000138 message=RateLimitExceeded
+2026-08-08 08:06:57 [ERROR] service=payment-api request_id=req-000139 message=AuthenticationFailed
+2026-08-08 08:07:00 [ERROR] service=payment-api request_id=req-000140 message=CacheMiss
+2026-08-08 08:07:03 [ERROR] service=payment-api request_id=req-000141 message=PermissionDenied
+2026-08-08 08:07:06 [ERROR] service=payment-api request_id=req-000142 message=DatabaseConnectionFailed
+2026-08-08 08:07:09 [ERROR] service=payment-api request_id=req-000143 message=FileNotFound
+2026-08-08 08:07:12 [ERROR] service=payment-api request_id=req-000144 message=AuthenticationFailed
+2026-08-08 08:07:15 [ERROR] service=payment-api request_id=req-000145 message=AuthenticationFailed
+2026-08-08 08:07:18 [ERROR] service=payment-api request_id=req-000146 message=ServiceUnavailable
+2026-08-08 08:07:21 [ERROR] service=payment-api request_id=req-000147 message=Timeout
+2026-08-08 08:07:24 [ERROR] service=payment-api request_id=req-000148 message=PermissionDenied
+2026-08-08 08:07:27 [ERROR] service=payment-api request_id=req-000149 message=AuthenticationFailed
+2026-08-08 08:07:30 [ERROR] service=payment-api request_id=req-000150 message=ConnectionRefused
+2026-08-08 08:07:33 [ERROR] service=payment-api request_id=req-000151 message=DatabaseConnectionFailed
+2026-08-08 08:07:36 [ERROR] service=payment-api request_id=req-000152 message=DatabaseConnectionFailed
+2026-08-08 08:07:39 [INFO] service=payment-api request_id=req-000153 message=Background job completed
+2026-08-08 08:07:42 [ERROR] service=payment-api request_id=req-000154 message=ConnectionRefused
+2026-08-08 08:07:45 [ERROR] service=payment-api request_id=req-000155 message=DatabaseConnectionFailed
+2026-08-08 08:07:48 [ERROR] service=payment-api request_id=req-000156 message=AuthenticationFailed
+2026-08-08 08:07:51 [ERROR] service=payment-api request_id=req-000157 message=ConnectionRefused
+2026-08-08 08:07:54 [ERROR] service=payment-api request_id=req-000158 message=AuthenticationFailed
+2026-08-08 08:07:57 [ERROR] service=payment-api request_id=req-000159 message=Timeout
+2026-08-08 08:08:00 [ERROR] service=payment-api request_id=req-000160 message=DatabaseConnectionFailed
+2026-08-08 08:08:03 [ERROR] service=payment-api request_id=req-000161 message=PermissionDenied
+2026-08-08 08:08:06 [ERROR] service=payment-api request_id=req-000162 message=ServiceUnavailable
+2026-08-08 08:08:09 [ERROR] service=payment-api request_id=req-000163 message=AuthenticationFailed
+2026-08-08 08:08:12 [ERROR] service=payment-api request_id=req-000164 message=Timeout
+2026-08-08 08:08:15 [ERROR] service=payment-api request_id=req-000165 message=ServiceUnavailable
+2026-08-08 08:08:18 [ERROR] service=payment-api request_id=req-000166 message=AuthenticationFailed
+2026-08-08 08:08:21 [ERROR] service=payment-api request_id=req-000167 message=OutOfMemory
+2026-08-08 08:08:24 [ERROR] service=payment-api request_id=req-000168 message=AuthenticationFailed
+2026-08-08 08:08:27 [ERROR] service=payment-api request_id=req-000169 message=RateLimitExceeded
+2026-08-08 08:08:30 [ERROR] service=payment-api request_id=req-000170 message=ConnectionRefused
+2026-08-08 08:08:33 [ERROR] service=payment-api request_id=req-000171 message=FileNotFound
+2026-08-08 08:08:36 [INFO] service=payment-api request_id=req-000172 message=User logged in successfully
+2026-08-08 08:08:39 [INFO] service=payment-api request_id=req-000173 message=Background job completed
+2026-08-08 08:08:42 [ERROR] service=payment-api request_id=req-000174 message=DatabaseConnectionFailed
+2026-08-08 08:08:45 [INFO] service=payment-api request_id=req-000175 message=Configuration loaded
+2026-08-08 08:08:48 [INFO] service=payment-api request_id=req-000176 message=Configuration loaded
+2026-08-08 08:08:51 [INFO] service=payment-api request_id=req-000177 message=Request completed successfully
+2026-08-08 08:08:54 [ERROR] service=payment-api request_id=req-000178 message=AuthenticationFailed
+2026-08-08 08:08:57 [ERROR] service=payment-api request_id=req-000179 message=ConnectionRefused
+2026-08-08 08:09:00 [INFO] service=payment-api request_id=req-000180 message=Configuration loaded
+2026-08-08 08:09:03 [ERROR] service=payment-api request_id=req-000181 message=AuthenticationFailed
+2026-08-08 08:09:06 [ERROR] service=payment-api request_id=req-000182 message=RateLimitExceeded
+2026-08-08 08:09:09 [ERROR] service=payment-api request_id=req-000183 message=RateLimitExceeded
+2026-08-08 08:09:12 [ERROR] service=payment-api request_id=req-000184 message=AuthenticationFailed
+2026-08-08 08:09:15 [INFO] service=payment-api request_id=req-000185 message=Health check passed
+2026-08-08 08:09:18 [ERROR] service=payment-api request_id=req-000186 message=PermissionDenied
+2026-08-08 08:09:21 [ERROR] service=payment-api request_id=req-000187 message=Timeout
+2026-08-08 08:09:24 [ERROR] service=payment-api request_id=req-000188 message=DatabaseConnectionFailed
+2026-08-08 08:09:27 [ERROR] service=payment-api request_id=req-000189 message=Timeout
+2026-08-08 08:09:30 [ERROR] service=payment-api request_id=req-000190 message=ServiceUnavailable
+2026-08-08 08:09:33 [ERROR] service=payment-api request_id=req-000191 message=DatabaseConnectionFailed
+2026-08-08 08:09:36 [ERROR] service=payment-api request_id=req-000192 message=Timeout
+2026-08-08 08:09:39 [INFO] service=payment-api request_id=req-000193 message=User logged in successfully
+2026-08-08 08:09:42 [ERROR] service=payment-api request_id=req-000194 message=FileNotFound
+2026-08-08 08:09:45 [ERROR] service=payment-api request_id=req-000195 message=PermissionDenied
+2026-08-08 08:09:48 [ERROR] service=payment-api request_id=req-000196 message=Timeout
+2026-08-08 08:09:51 [ERROR] service=payment-api request_id=req-000197 message=InvalidRequest
+2026-08-08 08:09:54 [INFO] service=payment-api request_id=req-000198 message=User logged in successfully
+2026-08-08 08:09:57 [ERROR] service=payment-api request_id=req-000199 message=Timeout
+2026-08-08 08:10:00 [ERROR] service=payment-api request_id=req-000200 message=InvalidToken
+2026-08-08 08:10:03 [INFO] service=payment-api request_id=req-000201 message=Request completed successfully
+2026-08-08 08:10:06 [ERROR] service=payment-api request_id=req-000202 message=AuthenticationFailed
+2026-08-08 08:10:09 [ERROR] service=payment-api request_id=req-000203 message=ConnectionRefused
+2026-08-08 08:10:12 [INFO] service=payment-api request_id=req-000204 message=User logged in successfully
+2026-08-08 08:10:15 [ERROR] service=payment-api request_id=req-000205 message=Timeout
+2026-08-08 08:10:18 [ERROR] service=payment-api request_id=req-000206 message=DatabaseConnectionFailed
+2026-08-08 08:10:21 [INFO] service=payment-api request_id=req-000207 message=Background job completed
+2026-08-08 08:10:24 [ERROR] service=payment-api request_id=req-000208 message=Timeout
+2026-08-08 08:10:27 [ERROR] service=payment-api request_id=req-000209 message=Timeout
+2026-08-08 08:10:30 [INFO] service=payment-api request_id=req-000210 message=Request completed successfully
+2026-08-08 08:10:33 [INFO] service=payment-api request_id=req-000211 message=Configuration loaded
+2026-08-08 08:10:36 [ERROR] service=payment-api request_id=req-000212 message=ConnectionRefused
+2026-08-08 08:10:39 [ERROR] service=payment-api request_id=req-000213 message=FileNotFound
+2026-08-08 08:10:42 [ERROR] service=payment-api request_id=req-000214 message=ConnectionRefused
+2026-08-08 08:10:45 [INFO] service=payment-api request_id=req-000215 message=Configuration loaded
+2026-08-08 08:10:48 [ERROR] service=payment-api request_id=req-000216 message=PermissionDenied
+2026-08-08 08:10:51 [ERROR] service=payment-api request_id=req-000217 message=DatabaseConnectionFailed
+2026-08-08 08:10:54 [ERROR] service=payment-api request_id=req-000218 message=DatabaseConnectionFailed
+2026-08-08 08:10:57 [ERROR] service=payment-api request_id=req-000219 message=DatabaseConnectionFailed
+2026-08-08 08:11:00 [ERROR] service=payment-api request_id=req-000220 message=PermissionDenied
+2026-08-08 08:11:03 [ERROR] service=payment-api request_id=req-000221 message=FileNotFound
+2026-08-08 08:11:06 [ERROR] service=payment-api request_id=req-000222 message=InvalidRequest
+2026-08-08 08:11:09 [INFO] service=payment-api request_id=req-000223 message=Health check passed
+2026-08-08 08:11:12 [ERROR] service=payment-api request_id=req-000224 message=PermissionDenied
+2026-08-08 08:11:15 [ERROR] service=payment-api request_id=req-000225 message=PermissionDenied
+2026-08-08 08:11:18 [ERROR] service=payment-api request_id=req-000226 message=Timeout
+2026-08-08 08:11:21 [ERROR] service=payment-api request_id=req-000227 message=DatabaseConnectionFailed
+2026-08-08 08:11:24 [ERROR] service=payment-api request_id=req-000228 message=Timeout
+2026-08-08 08:11:27 [ERROR] service=payment-api request_id=req-000229 message=DatabaseConnectionFailed
+2026-08-08 08:11:30 [ERROR] service=payment-api request_id=req-000230 message=ConnectionRefused
+2026-08-08 08:11:33 [ERROR] service=payment-api request_id=req-000231 message=DatabaseConnectionFailed
+2026-08-08 08:11:36 [INFO] service=payment-api request_id=req-000232 message=Configuration loaded
+2026-08-08 08:11:39 [ERROR] service=payment-api request_id=req-000233 message=ConnectionRefused
+2026-08-08 08:11:42 [ERROR] service=payment-api request_id=req-000234 message=Timeout
+2026-08-08 08:11:45 [ERROR] service=payment-api request_id=req-000235 message=DatabaseConnectionFailed
+2026-08-08 08:11:48 [ERROR] service=payment-api request_id=req-000236 message=DatabaseConnectionFailed
+2026-08-08 08:11:51 [ERROR] service=payment-api request_id=req-000237 message=FileNotFound
+2026-08-08 08:11:54 [ERROR] service=payment-api request_id=req-000238 message=AuthenticationFailed
+2026-08-08 08:11:57 [ERROR] service=payment-api request_id=req-000239 message=ConnectionRefused
+2026-08-08 08:12:00 [ERROR] service=payment-api request_id=req-000240 message=AuthenticationFailed
+2026-08-08 08:12:03 [ERROR] service=payment-api request_id=req-000241 message=ConnectionRefused
+2026-08-08 08:12:06 [ERROR] service=payment-api request_id=req-000242 message=DatabaseConnectionFailed
+2026-08-08 08:12:09 [INFO] service=payment-api request_id=req-000243 message=Background job completed
+2026-08-08 08:12:12 [ERROR] service=payment-api request_id=req-000244 message=ConnectionRefused
+2026-08-08 08:12:15 [ERROR] service=payment-api request_id=req-000245 message=DatabaseConnectionFailed
+2026-08-08 08:12:18 [ERROR] service=payment-api request_id=req-000246 message=FileNotFound
+2026-08-08 08:12:21 [ERROR] service=payment-api request_id=req-000247 message=FileNotFound
+2026-08-08 08:12:24 [ERROR] service=payment-api request_id=req-000248 message=ServiceUnavailable
+2026-08-08 08:12:27 [ERROR] service=payment-api request_id=req-000249 message=InvalidToken
+2026-08-08 08:12:30 [ERROR] service=payment-api request_id=req-000250 message=ServiceUnavailable
+2026-08-08 08:12:33 [INFO] service=payment-api request_id=req-000251 message=Health check passed
+2026-08-08 08:12:36 [ERROR] service=payment-api request_id=req-000252 message=FileNotFound
+2026-08-08 08:12:39 [ERROR] service=payment-api request_id=req-000253 message=DatabaseConnectionFailed
+2026-08-08 08:12:42 [ERROR] service=payment-api request_id=req-000254 message=AuthenticationFailed
+2026-08-08 08:12:45 [ERROR] service=payment-api request_id=req-000255 message=PermissionDenied
+2026-08-08 08:12:48 [ERROR] service=payment-api request_id=req-000256 message=FileNotFound
+2026-08-08 08:12:51 [ERROR] service=payment-api request_id=req-000257 message=DatabaseConnectionFailed
+2026-08-08 08:12:54 [ERROR] service=payment-api request_id=req-000258 message=DatabaseConnectionFailed
+2026-08-08 08:12:57 [ERROR] service=payment-api request_id=req-000259 message=PermissionDenied
+2026-08-08 08:13:00 [ERROR] service=payment-api request_id=req-000260 message=Timeout
+2026-08-08 08:13:03 [ERROR] service=payment-api request_id=req-000261 message=AuthenticationFailed
+2026-08-08 08:13:06 [ERROR] service=payment-api request_id=req-000262 message=InvalidToken
+2026-08-08 08:13:09 [INFO] service=payment-api request_id=req-000263 message=Health check passed
+2026-08-08 08:13:12 [ERROR] service=payment-api request_id=req-000264 message=RateLimitExceeded
+2026-08-08 08:13:15 [ERROR] service=payment-api request_id=req-000265 message=PermissionDenied
+2026-08-08 08:13:18 [ERROR] service=payment-api request_id=req-000266 message=DatabaseConnectionFailed
+2026-08-08 08:13:21 [ERROR] service=payment-api request_id=req-000267 message=OutOfMemory
+2026-08-08 08:13:24 [ERROR] service=payment-api request_id=req-000268 message=ConnectionRefused
+2026-08-08 08:13:27 [ERROR] service=payment-api request_id=req-000269 message=OutOfMemory
+2026-08-08 08:13:30 [ERROR] service=payment-api request_id=req-000270 message=FileNotFound
+2026-08-08 08:13:33 [ERROR] service=payment-api request_id=req-000271 message=FileNotFound
+2026-08-08 08:13:36 [INFO] service=payment-api request_id=req-000272 message=Configuration loaded
+2026-08-08 08:13:39 [ERROR] service=payment-api request_id=req-000273 message=Timeout
+2026-08-08 08:13:42 [ERROR] service=payment-api request_id=req-000274 message=Timeout
+2026-08-08 08:13:45 [ERROR] service=payment-api request_id=req-000275 message=FileNotFound
+2026-08-08 08:13:48 [ERROR] service=payment-api request_id=req-000276 message=OutOfMemory
+2026-08-08 08:13:51 [ERROR] service=payment-api request_id=req-000277 message=RateLimitExceeded
+2026-08-08 08:13:54 [INFO] service=payment-api request_id=req-000278 message=Request completed successfully
+2026-08-08 08:13:57 [ERROR] service=payment-api request_id=req-000279 message=FileNotFound
+2026-08-08 08:14:00 [ERROR] service=payment-api request_id=req-000280 message=Timeout
+2026-08-08 08:14:03 [ERROR] service=payment-api request_id=req-000281 message=DatabaseConnectionFailed
+2026-08-08 08:14:06 [ERROR] service=payment-api request_id=req-000282 message=ServiceUnavailable
+2026-08-08 08:14:09 [ERROR] service=payment-api request_id=req-000283 message=ServiceUnavailable
+2026-08-08 08:14:12 [ERROR] service=payment-api request_id=req-000284 message=FileNotFound
+2026-08-08 08:14:15 [ERROR] service=payment-api request_id=req-000285 message=PermissionDenied
+2026-08-08 08:14:18 [INFO] service=payment-api request_id=req-000286 message=Background job completed
+2026-08-08 08:14:21 [INFO] service=payment-api request_id=req-000287 message=Health check passed
+2026-08-08 08:14:24 [ERROR] service=payment-api request_id=req-000288 message=DatabaseConnectionFailed
+2026-08-08 08:14:27 [ERROR] service=payment-api request_id=req-000289 message=OutOfMemory
+2026-08-08 08:14:30 [ERROR] service=payment-api request_id=req-000290 message=DatabaseConnectionFailed
+2026-08-08 08:14:33 [ERROR] service=payment-api request_id=req-000291 message=DatabaseConnectionFailed
+2026-08-08 08:14:36 [ERROR] service=payment-api request_id=req-000292 message=AuthenticationFailed
+2026-08-08 08:14:39 [INFO] service=payment-api request_id=req-000293 message=Request completed successfully
+2026-08-08 08:14:42 [ERROR] service=payment-api request_id=req-000294 message=DatabaseConnectionFailed
+2026-08-08 08:14:45 [ERROR] service=payment-api request_id=req-000295 message=DatabaseConnectionFailed
+2026-08-08 08:14:48 [ERROR] service=payment-api request_id=req-000296 message=AuthenticationFailed
+2026-08-08 08:14:51 [ERROR] service=payment-api request_id=req-000297 message=DatabaseConnectionFailed
+2026-08-08 08:14:54 [ERROR] service=payment-api request_id=req-000298 message=ConnectionRefused
+2026-08-08 08:14:57 [ERROR] service=payment-api request_id=req-000299 message=DatabaseConnectionFailed
+2026-08-08 08:15:00 [ERROR] service=payment-api request_id=req-000300 message=Timeout
+2026-08-08 08:15:03 [ERROR] service=payment-api request_id=req-000301 message=DatabaseConnectionFailed
+2026-08-08 08:15:06 [ERROR] service=payment-api request_id=req-000302 message=DatabaseConnectionFailed
+2026-08-08 08:15:09 [ERROR] service=payment-api request_id=req-000303 message=DatabaseConnectionFailed
+2026-08-08 08:15:12 [INFO] service=payment-api request_id=req-000304 message=User logged in successfully
+2026-08-08 08:15:15 [ERROR] service=payment-api request_id=req-000305 message=AuthenticationFailed
+2026-08-08 08:15:18 [ERROR] service=payment-api request_id=req-000306 message=DatabaseConnectionFailed
+2026-08-08 08:15:21 [ERROR] service=payment-api request_id=req-000307 message=Timeout
+2026-08-08 08:15:24 [INFO] service=payment-api request_id=req-000308 message=Background job completed
+2026-08-08 08:15:27 [INFO] service=payment-api request_id=req-000309 message=Configuration loaded
+2026-08-08 08:15:30 [ERROR] service=payment-api request_id=req-000310 message=DatabaseConnectionFailed
+2026-08-08 08:15:33 [ERROR] service=payment-api request_id=req-000311 message=AuthenticationFailed
+2026-08-08 08:15:36 [ERROR] service=payment-api request_id=req-000312 message=ServiceUnavailable
+2026-08-08 08:15:39 [ERROR] service=payment-api request_id=req-000313 message=AuthenticationFailed
+2026-08-08 08:15:42 [ERROR] service=payment-api request_id=req-000314 message=ConnectionRefused
+2026-08-08 08:15:45 [ERROR] service=payment-api request_id=req-000315 message=InvalidRequest
+2026-08-08 08:15:48 [ERROR] service=payment-api request_id=req-000316 message=DatabaseConnectionFailed
+2026-08-08 08:15:51 [ERROR] service=payment-api request_id=req-000317 message=AuthenticationFailed
+2026-08-08 08:15:54 [ERROR] service=payment-api request_id=req-000318 message=Timeout
+2026-08-08 08:15:57 [ERROR] service=payment-api request_id=req-000319 message=Timeout
+2026-08-08 08:16:00 [ERROR] service=payment-api request_id=req-000320 message=OutOfMemory
+2026-08-08 08:16:03 [ERROR] service=payment-api request_id=req-000321 message=InvalidRequest
+2026-08-08 08:16:06 [ERROR] service=payment-api request_id=req-000322 message=Timeout
+2026-08-08 08:16:09 [ERROR] service=payment-api request_id=req-000323 message=InvalidToken
+2026-08-08 08:16:12 [ERROR] service=payment-api request_id=req-000324 message=FileNotFound
+2026-08-08 08:16:15 [ERROR] service=payment-api request_id=req-000325 message=Timeout
+2026-08-08 08:16:18 [ERROR] service=payment-api request_id=req-000326 message=PermissionDenied
+2026-08-08 08:16:21 [ERROR] service=payment-api request_id=req-000327 message=ConnectionRefused
+2026-08-08 08:16:24 [ERROR] service=payment-api request_id=req-000328 message=ConnectionRefused
+2026-08-08 08:16:27 [ERROR] service=payment-api request_id=req-000329 message=DatabaseConnectionFailed
+2026-08-08 08:16:30 [ERROR] service=payment-api request_id=req-000330 message=Timeout
+2026-08-08 08:16:33 [INFO] service=payment-api request_id=req-000331 message=Health check passed
+2026-08-08 08:16:36 [INFO] service=payment-api request_id=req-000332 message=User logged in successfully
+2026-08-08 08:16:39 [ERROR] service=payment-api request_id=req-000333 message=FileNotFound
+2026-08-08 08:16:42 [ERROR] service=payment-api request_id=req-000334 message=Timeout
+2026-08-08 08:16:45 [INFO] service=payment-api request_id=req-000335 message=Request completed successfully
+2026-08-08 08:16:48 [ERROR] service=payment-api request_id=req-000336 message=DatabaseConnectionFailed
+2026-08-08 08:16:51 [ERROR] service=payment-api request_id=req-000337 message=AuthenticationFailed
+2026-08-08 08:16:54 [INFO] service=payment-api request_id=req-000338 message=Health check passed
+2026-08-08 08:16:57 [ERROR] service=payment-api request_id=req-000339 message=InvalidRequest
+2026-08-08 08:17:00 [INFO] service=payment-api request_id=req-000340 message=Background job completed
+2026-08-08 08:17:03 [ERROR] service=payment-api request_id=req-000341 message=ServiceUnavailable
+2026-08-08 08:17:06 [ERROR] service=payment-api request_id=req-000342 message=AuthenticationFailed
+2026-08-08 08:17:09 [ERROR] service=payment-api request_id=req-000343 message=FileNotFound
+2026-08-08 08:17:12 [ERROR] service=payment-api request_id=req-000344 message=AuthenticationFailed
+2026-08-08 08:17:15 [ERROR] service=payment-api request_id=req-000345 message=Timeout
+2026-08-08 08:17:18 [ERROR] service=payment-api request_id=req-000346 message=Timeout
+2026-08-08 08:17:21 [ERROR] service=payment-api request_id=req-000347 message=OutOfMemory
+2026-08-08 08:17:24 [ERROR] service=payment-api request_id=req-000348 message=ConnectionRefused
+2026-08-08 08:17:27 [ERROR] service=payment-api request_id=req-000349 message=ConnectionRefused
+2026-08-08 08:17:30 [ERROR] service=payment-api request_id=req-000350 message=DatabaseConnectionFailed
+2026-08-08 08:17:33 [ERROR] service=payment-api request_id=req-000351 message=DatabaseConnectionFailed
+2026-08-08 08:17:36 [ERROR] service=payment-api request_id=req-000352 message=Timeout
+2026-08-08 08:17:39 [ERROR] service=payment-api request_id=req-000353 message=Timeout
+2026-08-08 08:17:42 [ERROR] service=payment-api request_id=req-000354 message=AuthenticationFailed
+2026-08-08 08:17:45 [INFO] service=payment-api request_id=req-000355 message=User logged in successfully
+2026-08-08 08:17:48 [INFO] service=payment-api request_id=req-000356 message=Health check passed
+2026-08-08 08:17:51 [ERROR] service=payment-api request_id=req-000357 message=CacheMiss
+2026-08-08 08:17:54 [ERROR] service=payment-api request_id=req-000358 message=DatabaseConnectionFailed
+2026-08-08 08:17:57 [ERROR] service=payment-api request_id=req-000359 message=DatabaseConnectionFailed
+2026-08-08 08:18:00 [INFO] service=payment-api request_id=req-000360 message=User logged in successfully
+2026-08-08 08:18:03 [INFO] service=payment-api request_id=req-000361 message=Configuration loaded
+2026-08-08 08:18:06 [ERROR] service=payment-api request_id=req-000362 message=AuthenticationFailed
+2026-08-08 08:18:09 [ERROR] service=payment-api request_id=req-000363 message=AuthenticationFailed
+2026-08-08 08:18:12 [ERROR] service=payment-api request_id=req-000364 message=ConnectionRefused
+2026-08-08 08:18:15 [ERROR] service=payment-api request_id=req-000365 message=Timeout
+2026-08-08 08:18:18 [ERROR] service=payment-api request_id=req-000366 message=AuthenticationFailed
+2026-08-08 08:18:21 [INFO] service=payment-api request_id=req-000367 message=Background job completed
+2026-08-08 08:18:24 [ERROR] service=payment-api request_id=req-000368 message=ConnectionRefused
+2026-08-08 08:18:27 [ERROR] service=payment-api request_id=req-000369 message=DatabaseConnectionFailed
+2026-08-08 08:18:30 [ERROR] service=payment-api request_id=req-000370 message=PermissionDenied
+2026-08-08 08:18:33 [ERROR] service=payment-api request_id=req-000371 message=InvalidRequest
+2026-08-08 08:18:36 [ERROR] service=payment-api request_id=req-000372 message=FileNotFound
+2026-08-08 08:18:39 [ERROR] service=payment-api request_id=req-000373 message=AuthenticationFailed
+2026-08-08 08:18:42 [ERROR] service=payment-api request_id=req-000374 message=Timeout
+2026-08-08 08:18:45 [INFO] service=payment-api request_id=req-000375 message=Configuration loaded
+2026-08-08 08:18:48 [ERROR] service=payment-api request_id=req-000376 message=FileNotFound
+2026-08-08 08:18:51 [ERROR] service=payment-api request_id=req-000377 message=ConnectionRefused
+2026-08-08 08:18:54 [INFO] service=payment-api request_id=req-000378 message=Configuration loaded
+2026-08-08 08:18:57 [INFO] service=payment-api request_id=req-000379 message=User logged in successfully
+2026-08-08 08:19:00 [ERROR] service=payment-api request_id=req-000380 message=InvalidRequest
+2026-08-08 08:19:03 [INFO] service=payment-api request_id=req-000381 message=Request completed successfully
+2026-08-08 08:19:06 [ERROR] service=payment-api request_id=req-000382 message=DatabaseConnectionFailed
+2026-08-08 08:19:09 [ERROR] service=payment-api request_id=req-000383 message=AuthenticationFailed
+2026-08-08 08:19:12 [ERROR] service=payment-api request_id=req-000384 message=ConnectionRefused
+2026-08-08 08:19:15 [ERROR] service=payment-api request_id=req-000385 message=PermissionDenied
+2026-08-08 08:19:18 [ERROR] service=payment-api request_id=req-000386 message=DatabaseConnectionFailed
+2026-08-08 08:19:21 [ERROR] service=payment-api request_id=req-000387 message=OutOfMemory
+2026-08-08 08:19:24 [ERROR] service=payment-api request_id=req-000388 message=DatabaseConnectionFailed
+2026-08-08 08:19:27 [ERROR] service=payment-api request_id=req-000389 message=PermissionDenied
+2026-08-08 08:19:30 [INFO] service=payment-api request_id=req-000390 message=User logged in successfully
+2026-08-08 08:19:33 [ERROR] service=payment-api request_id=req-000391 message=DatabaseConnectionFailed
+2026-08-08 08:19:36 [ERROR] service=payment-api request_id=req-000392 message=OutOfMemory
+2026-08-08 08:19:39 [ERROR] service=payment-api request_id=req-000393 message=PermissionDenied
+2026-08-08 08:19:42 [ERROR] service=payment-api request_id=req-000394 message=Timeout
+2026-08-08 08:19:45 [ERROR] service=payment-api request_id=req-000395 message=CacheMiss
+2026-08-08 08:19:48 [ERROR] service=payment-api request_id=req-000396 message=AuthenticationFailed
+2026-08-08 08:19:51 [ERROR] service=payment-api request_id=req-000397 message=ServiceUnavailable
+2026-08-08 08:19:54 [ERROR] service=payment-api request_id=req-000398 message=DatabaseConnectionFailed
+2026-08-08 08:19:57 [ERROR] service=payment-api request_id=req-000399 message=AuthenticationFailed
+2026-08-08 08:20:00 [ERROR] service=payment-api request_id=req-000400 message=AuthenticationFailed
+2026-08-08 08:20:03 [INFO] service=payment-api request_id=req-000401 message=Configuration loaded
+2026-08-08 08:20:06 [ERROR] service=payment-api request_id=req-000402 message=Timeout
+2026-08-08 08:20:09 [ERROR] service=payment-api request_id=req-000403 message=AuthenticationFailed
+2026-08-08 08:20:12 [ERROR] service=payment-api request_id=req-000404 message=ConnectionRefused
+2026-08-08 08:20:15 [ERROR] service=payment-api request_id=req-000405 message=AuthenticationFailed
+2026-08-08 08:20:18 [ERROR] service=payment-api request_id=req-000406 message=DatabaseConnectionFailed
+2026-08-08 08:20:21 [INFO] service=payment-api request_id=req-000407 message=User logged in successfully
+2026-08-08 08:20:24 [INFO] service=payment-api request_id=req-000408 message=User logged in successfully
+2026-08-08 08:20:27 [ERROR] service=payment-api request_id=req-000409 message=DatabaseConnectionFailed
+2026-08-08 08:20:30 [ERROR] service=payment-api request_id=req-000410 message=AuthenticationFailed
+2026-08-08 08:20:33 [INFO] service=payment-api request_id=req-000411 message=User logged in successfully
+2026-08-08 08:20:36 [ERROR] service=payment-api request_id=req-000412 message=DatabaseConnectionFailed
+2026-08-08 08:20:39 [ERROR] service=payment-api request_id=req-000413 message=ConnectionRefused
+2026-08-08 08:20:42 [ERROR] service=payment-api request_id=req-000414 message=AuthenticationFailed
+2026-08-08 08:20:45 [INFO] service=payment-api request_id=req-000415 message=Health check passed
+2026-08-08 08:20:48 [ERROR] service=payment-api request_id=req-000416 message=Timeout
+2026-08-08 08:20:51 [ERROR] service=payment-api request_id=req-000417 message=Timeout
+2026-08-08 08:20:54 [ERROR] service=payment-api request_id=req-000418 message=PermissionDenied
+2026-08-08 08:20:57 [ERROR] service=payment-api request_id=req-000419 message=Timeout
+2026-08-08 08:21:00 [INFO] service=payment-api request_id=req-000420 message=Health check passed
+2026-08-08 08:21:03 [ERROR] service=payment-api request_id=req-000421 message=InvalidRequest
+2026-08-08 08:21:06 [ERROR] service=payment-api request_id=req-000422 message=ServiceUnavailable
+2026-08-08 08:21:09 [ERROR] service=payment-api request_id=req-000423 message=AuthenticationFailed
+2026-08-08 08:21:12 [ERROR] service=payment-api request_id=req-000424 message=InvalidToken
+2026-08-08 08:21:15 [ERROR] service=payment-api request_id=req-000425 message=Timeout
+2026-08-08 08:21:18 [ERROR] service=payment-api request_id=req-000426 message=DatabaseConnectionFailed
+2026-08-08 08:21:21 [INFO] service=payment-api request_id=req-000427 message=Background job completed
+2026-08-08 08:21:24 [ERROR] service=payment-api request_id=req-000428 message=Timeout
+2026-08-08 08:21:27 [ERROR] service=payment-api request_id=req-000429 message=DatabaseConnectionFailed
+2026-08-08 08:21:30 [ERROR] service=payment-api request_id=req-000430 message=PermissionDenied
+2026-08-08 08:21:33 [ERROR] service=payment-api request_id=req-000431 message=OutOfMemory
+2026-08-08 08:21:36 [ERROR] service=payment-api request_id=req-000432 message=RateLimitExceeded
+2026-08-08 08:21:39 [ERROR] service=payment-api request_id=req-000433 message=ServiceUnavailable
+2026-08-08 08:21:42 [ERROR] service=payment-api request_id=req-000434 message=PermissionDenied
+2026-08-08 08:21:45 [ERROR] service=payment-api request_id=req-000435 message=Timeout
+2026-08-08 08:21:48 [ERROR] service=payment-api request_id=req-000436 message=Timeout
+2026-08-08 08:21:51 [INFO] service=payment-api request_id=req-000437 message=Health check passed
+2026-08-08 08:21:54 [INFO] service=payment-api request_id=req-000438 message=Health check passed
+2026-08-08 08:21:57 [ERROR] service=payment-api request_id=req-000439 message=Timeout
+2026-08-08 08:22:00 [ERROR] service=payment-api request_id=req-000440 message=DatabaseConnectionFailed
+2026-08-08 08:22:03 [ERROR] service=payment-api request_id=req-000441 message=AuthenticationFailed
+2026-08-08 08:22:06 [INFO] service=payment-api request_id=req-000442 message=Request completed successfully
+2026-08-08 08:22:09 [ERROR] service=payment-api request_id=req-000443 message=InvalidToken
+2026-08-08 08:22:12 [ERROR] service=payment-api request_id=req-000444 message=ConnectionRefused
+2026-08-08 08:22:15 [INFO] service=payment-api request_id=req-000445 message=User logged in successfully
+2026-08-08 08:22:18 [INFO] service=payment-api request_id=req-000446 message=Background job completed
+2026-08-08 08:22:21 [ERROR] service=payment-api request_id=req-000447 message=AuthenticationFailed
+2026-08-08 08:22:24 [ERROR] service=payment-api request_id=req-000448 message=Timeout
+2026-08-08 08:22:27 [ERROR] service=payment-api request_id=req-000449 message=Timeout
+2026-08-08 08:22:30 [ERROR] service=payment-api request_id=req-000450 message=ServiceUnavailable
+2026-08-08 08:22:33 [ERROR] service=payment-api request_id=req-000451 message=PermissionDenied
+2026-08-08 08:22:36 [ERROR] service=payment-api request_id=req-000452 message=FileNotFound
+2026-08-08 08:22:39 [ERROR] service=payment-api request_id=req-000453 message=AuthenticationFailed
+2026-08-08 08:22:42 [INFO] service=payment-api request_id=req-000454 message=User logged in successfully
+2026-08-08 08:22:45 [INFO] service=payment-api request_id=req-000455 message=Background job completed
+2026-08-08 08:22:48 [INFO] service=payment-api request_id=req-000456 message=User logged in successfully
+2026-08-08 08:22:51 [ERROR] service=payment-api request_id=req-000457 message=DatabaseConnectionFailed
+2026-08-08 08:22:54 [ERROR] service=payment-api request_id=req-000458 message=DatabaseConnectionFailed
+2026-08-08 08:22:57 [ERROR] service=payment-api request_id=req-000459 message=OutOfMemory
+2026-08-08 08:23:00 [ERROR] service=payment-api request_id=req-000460 message=AuthenticationFailed
+2026-08-08 08:23:03 [ERROR] service=payment-api request_id=req-000461 message=PermissionDenied
+2026-08-08 08:23:06 [ERROR] service=payment-api request_id=req-000462 message=FileNotFound
+2026-08-08 08:23:09 [INFO] service=payment-api request_id=req-000463 message=Configuration loaded
+2026-08-08 08:23:12 [INFO] service=payment-api request_id=req-000464 message=Background job completed
+2026-08-08 08:23:15 [ERROR] service=payment-api request_id=req-000465 message=PermissionDenied
+2026-08-08 08:23:18 [ERROR] service=payment-api request_id=req-000466 message=OutOfMemory
+2026-08-08 08:23:21 [INFO] service=payment-api request_id=req-000467 message=Configuration loaded
+2026-08-08 08:23:24 [ERROR] service=payment-api request_id=req-000468 message=PermissionDenied
+2026-08-08 08:23:27 [INFO] service=payment-api request_id=req-000469 message=Request completed successfully
+2026-08-08 08:23:30 [ERROR] service=payment-api request_id=req-000470 message=Timeout
+2026-08-08 08:23:33 [ERROR] service=payment-api request_id=req-000471 message=InvalidRequest
+2026-08-08 08:23:36 [INFO] service=payment-api request_id=req-000472 message=Health check passed
+2026-08-08 08:23:39 [ERROR] service=payment-api request_id=req-000473 message=AuthenticationFailed
+2026-08-08 08:23:42 [INFO] service=payment-api request_id=req-000474 message=Configuration loaded
+2026-08-08 08:23:45 [ERROR] service=payment-api request_id=req-000475 message=RateLimitExceeded
+2026-08-08 08:23:48 [INFO] service=payment-api request_id=req-000476 message=Configuration loaded
+2026-08-08 08:23:51 [ERROR] service=payment-api request_id=req-000477 message=RateLimitExceeded
+2026-08-08 08:23:54 [ERROR] service=payment-api request_id=req-000478 message=DatabaseConnectionFailed
+2026-08-08 08:23:57 [ERROR] service=payment-api request_id=req-000479 message=Timeout
+2026-08-08 08:24:00 [ERROR] service=payment-api request_id=req-000480 message=DatabaseConnectionFailed
+2026-08-08 08:24:03 [ERROR] service=payment-api request_id=req-000481 message=DatabaseConnectionFailed
+2026-08-08 08:24:06 [ERROR] service=payment-api request_id=req-000482 message=DatabaseConnectionFailed
+2026-08-08 08:24:09 [ERROR] service=payment-api request_id=req-000483 message=ConnectionRefused
+2026-08-08 08:24:12 [ERROR] service=payment-api request_id=req-000484 message=AuthenticationFailed
+2026-08-08 08:24:15 [ERROR] service=payment-api request_id=req-000485 message=DatabaseConnectionFailed
+2026-08-08 08:24:18 [INFO] service=payment-api request_id=req-000486 message=Health check passed
+2026-08-08 08:24:21 [ERROR] service=payment-api request_id=req-000487 message=FileNotFound
+2026-08-08 08:24:24 [ERROR] service=payment-api request_id=req-000488 message=ConnectionRefused
+2026-08-08 08:24:27 [ERROR] service=payment-api request_id=req-000489 message=DatabaseConnectionFailed
+2026-08-08 08:24:30 [ERROR] service=payment-api request_id=req-000490 message=ConnectionRefused
+2026-08-08 08:24:33 [INFO] service=payment-api request_id=req-000491 message=User logged in successfully
+2026-08-08 08:24:36 [ERROR] service=payment-api request_id=req-000492 message=DatabaseConnectionFailed
+2026-08-08 08:24:39 [INFO] service=payment-api request_id=req-000493 message=Background job completed
+2026-08-08 08:24:42 [ERROR] service=payment-api request_id=req-000494 message=ConnectionRefused
+2026-08-08 08:24:45 [ERROR] service=payment-api request_id=req-000495 message=DatabaseConnectionFailed
+2026-08-08 08:24:48 [ERROR] service=payment-api request_id=req-000496 message=Timeout
+2026-08-08 08:24:51 [ERROR] service=payment-api request_id=req-000497 message=AuthenticationFailed
+2026-08-08 08:24:54 [INFO] service=payment-api request_id=req-000498 message=Configuration loaded
+2026-08-08 08:24:57 [ERROR] service=payment-api request_id=req-000499 message=DatabaseConnectionFailed
+2026-08-08 08:25:00 [ERROR] service=payment-api request_id=req-000500 message=RateLimitExceeded
+2026-08-08 08:25:03 [ERROR] service=payment-api request_id=req-000501 message=AuthenticationFailed
+2026-08-08 08:25:06 [ERROR] service=payment-api request_id=req-000502 message=InvalidRequest
+2026-08-08 08:25:09 [ERROR] service=payment-api request_id=req-000503 message=ConnectionRefused
+2026-08-08 08:25:12 [ERROR] service=payment-api request_id=req-000504 message=Timeout
+2026-08-08 08:25:15 [INFO] service=payment-api request_id=req-000505 message=Background job completed
+2026-08-08 08:25:18 [ERROR] service=payment-api request_id=req-000506 message=AuthenticationFailed
+2026-08-08 08:25:21 [ERROR] service=payment-api request_id=req-000507 message=Timeout
+2026-08-08 08:25:24 [INFO] service=payment-api request_id=req-000508 message=Health check passed
+2026-08-08 08:25:27 [ERROR] service=payment-api request_id=req-000509 message=OutOfMemory
+2026-08-08 08:25:30 [ERROR] service=payment-api request_id=req-000510 message=PermissionDenied
+2026-08-08 08:25:33 [ERROR] service=payment-api request_id=req-000511 message=Timeout
+2026-08-08 08:25:36 [INFO] service=payment-api request_id=req-000512 message=User logged in successfully
+2026-08-08 08:25:39 [INFO] service=payment-api request_id=req-000513 message=Request completed successfully
+2026-08-08 08:25:42 [INFO] service=payment-api request_id=req-000514 message=Request completed successfully
+2026-08-08 08:25:45 [ERROR] service=payment-api request_id=req-000515 message=AuthenticationFailed
+2026-08-08 08:25:48 [ERROR] service=payment-api request_id=req-000516 message=RateLimitExceeded
+2026-08-08 08:25:51 [INFO] service=payment-api request_id=req-000517 message=Configuration loaded
+2026-08-08 08:25:54 [ERROR] service=payment-api request_id=req-000518 message=FileNotFound
+2026-08-08 08:25:57 [ERROR] service=payment-api request_id=req-000519 message=DatabaseConnectionFailed
+2026-08-08 08:26:00 [ERROR] service=payment-api request_id=req-000520 message=DatabaseConnectionFailed
+2026-08-08 08:26:03 [ERROR] service=payment-api request_id=req-000521 message=InvalidRequest
+2026-08-08 08:26:06 [ERROR] service=payment-api request_id=req-000522 message=DatabaseConnectionFailed
+2026-08-08 08:26:09 [ERROR] service=payment-api request_id=req-000523 message=DatabaseConnectionFailed
+2026-08-08 08:26:12 [ERROR] service=payment-api request_id=req-000524 message=FileNotFound
+2026-08-08 08:26:15 [ERROR] service=payment-api request_id=req-000525 message=ConnectionRefused
+2026-08-08 08:26:18 [ERROR] service=payment-api request_id=req-000526 message=Timeout
+2026-08-08 08:26:21 [ERROR] service=payment-api request_id=req-000527 message=DatabaseConnectionFailed
+2026-08-08 08:26:24 [ERROR] service=payment-api request_id=req-000528 message=InvalidRequest
+2026-08-08 08:26:27 [ERROR] service=payment-api request_id=req-000529 message=OutOfMemory
+2026-08-08 08:26:30 [ERROR] service=payment-api request_id=req-000530 message=Timeout
+2026-08-08 08:26:33 [ERROR] service=payment-api request_id=req-000531 message=FileNotFound
+2026-08-08 08:26:36 [ERROR] service=payment-api request_id=req-000532 message=Timeout
+2026-08-08 08:26:39 [ERROR] service=payment-api request_id=req-000533 message=Timeout
+2026-08-08 08:26:42 [INFO] service=payment-api request_id=req-000534 message=Configuration loaded
+2026-08-08 08:26:45 [ERROR] service=payment-api request_id=req-000535 message=CacheMiss
+2026-08-08 08:26:48 [INFO] service=payment-api request_id=req-000536 message=Health check passed
+2026-08-08 08:26:51 [INFO] service=payment-api request_id=req-000537 message=User logged in successfully
+2026-08-08 08:26:54 [ERROR] service=payment-api request_id=req-000538 message=InvalidRequest
+2026-08-08 08:26:57 [ERROR] service=payment-api request_id=req-000539 message=DatabaseConnectionFailed
+2026-08-08 08:27:00 [ERROR] service=payment-api request_id=req-000540 message=AuthenticationFailed
+2026-08-08 08:27:03 [ERROR] service=payment-api request_id=req-000541 message=Timeout
+2026-08-08 08:27:06 [ERROR] service=payment-api request_id=req-000542 message=PermissionDenied
+2026-08-08 08:27:09 [ERROR] service=payment-api request_id=req-000543 message=ServiceUnavailable
+2026-08-08 08:27:12 [ERROR] service=payment-api request_id=req-000544 message=Timeout
+2026-08-08 08:27:15 [ERROR] service=payment-api request_id=req-000545 message=DatabaseConnectionFailed
+2026-08-08 08:27:18 [ERROR] service=payment-api request_id=req-000546 message=ConnectionRefused
+2026-08-08 08:27:21 [ERROR] service=payment-api request_id=req-000547 message=FileNotFound
+2026-08-08 08:27:24 [ERROR] service=payment-api request_id=req-000548 message=OutOfMemory
+2026-08-08 08:27:27 [INFO] service=payment-api request_id=req-000549 message=User logged in successfully
+2026-08-08 08:27:30 [ERROR] service=payment-api request_id=req-000550 message=ConnectionRefused
+2026-08-08 08:27:33 [ERROR] service=payment-api request_id=req-000551 message=ConnectionRefused
+2026-08-08 08:27:36 [ERROR] service=payment-api request_id=req-000552 message=FileNotFound
+2026-08-08 08:27:39 [ERROR] service=payment-api request_id=req-000553 message=DatabaseConnectionFailed
+2026-08-08 08:27:42 [INFO] service=payment-api request_id=req-000554 message=Request completed successfully
+2026-08-08 08:27:45 [INFO] service=payment-api request_id=req-000555 message=Configuration loaded
+2026-08-08 08:27:48 [ERROR] service=payment-api request_id=req-000556 message=FileNotFound
+2026-08-08 08:27:51 [ERROR] service=payment-api request_id=req-000557 message=PermissionDenied
+2026-08-08 08:27:54 [ERROR] service=payment-api request_id=req-000558 message=Timeout
+2026-08-08 08:27:57 [ERROR] service=payment-api request_id=req-000559 message=Timeout
+2026-08-08 08:28:00 [ERROR] service=payment-api request_id=req-000560 message=FileNotFound
+2026-08-08 08:28:03 [ERROR] service=payment-api request_id=req-000561 message=DatabaseConnectionFailed
+2026-08-08 08:28:06 [ERROR] service=payment-api request_id=req-000562 message=ConnectionRefused
+2026-08-08 08:28:09 [ERROR] service=payment-api request_id=req-000563 message=PermissionDenied
+2026-08-08 08:28:12 [INFO] service=payment-api request_id=req-000564 message=Health check passed
+2026-08-08 08:28:15 [INFO] service=payment-api request_id=req-000565 message=User logged in successfully
+2026-08-08 08:28:18 [ERROR] service=payment-api request_id=req-000566 message=OutOfMemory
+2026-08-08 08:28:21 [ERROR] service=payment-api request_id=req-000567 message=AuthenticationFailed
+2026-08-08 08:28:24 [ERROR] service=payment-api request_id=req-000568 message=DatabaseConnectionFailed
+2026-08-08 08:28:27 [ERROR] service=payment-api request_id=req-000569 message=InvalidRequest
+2026-08-08 08:28:30 [ERROR] service=payment-api request_id=req-000570 message=DatabaseConnectionFailed
+2026-08-08 08:28:33 [ERROR] service=payment-api request_id=req-000571 message=PermissionDenied
+2026-08-08 08:28:36 [INFO] service=payment-api request_id=req-000572 message=User logged in successfully
+2026-08-08 08:28:39 [ERROR] service=payment-api request_id=req-000573 message=Timeout
+2026-08-08 08:28:42 [INFO] service=payment-api request_id=req-000574 message=Health check passed
+2026-08-08 08:28:45 [ERROR] service=payment-api request_id=req-000575 message=OutOfMemory
+2026-08-08 08:28:48 [ERROR] service=payment-api request_id=req-000576 message=PermissionDenied
+2026-08-08 08:28:51 [ERROR] service=payment-api request_id=req-000577 message=DatabaseConnectionFailed
+2026-08-08 08:28:54 [INFO] service=payment-api request_id=req-000578 message=User logged in successfully
+2026-08-08 08:28:57 [ERROR] service=payment-api request_id=req-000579 message=CacheMiss
+2026-08-08 08:29:00 [ERROR] service=payment-api request_id=req-000580 message=DatabaseConnectionFailed
+2026-08-08 08:29:03 [ERROR] service=payment-api request_id=req-000581 message=FileNotFound
+2026-08-08 08:29:06 [ERROR] service=payment-api request_id=req-000582 message=DatabaseConnectionFailed
+2026-08-08 08:29:09 [ERROR] service=payment-api request_id=req-000583 message=PermissionDenied
+2026-08-08 08:29:12 [ERROR] service=payment-api request_id=req-000584 message=FileNotFound
+2026-08-08 08:29:15 [ERROR] service=payment-api request_id=req-000585 message=ConnectionRefused
+2026-08-08 08:29:18 [ERROR] service=payment-api request_id=req-000586 message=DatabaseConnectionFailed
+2026-08-08 08:29:21 [ERROR] service=payment-api request_id=req-000587 message=Timeout
+2026-08-08 08:29:24 [ERROR] service=payment-api request_id=req-000588 message=InvalidRequest
+2026-08-08 08:29:27 [ERROR] service=payment-api request_id=req-000589 message=PermissionDenied
+2026-08-08 08:29:30 [ERROR] service=payment-api request_id=req-000590 message=Timeout
+2026-08-08 08:29:33 [ERROR] service=payment-api request_id=req-000591 message=ServiceUnavailable
+2026-08-08 08:29:36 [INFO] service=payment-api request_id=req-000592 message=Request completed successfully
+2026-08-08 08:29:39 [ERROR] service=payment-api request_id=req-000593 message=CacheMiss
+2026-08-08 08:29:42 [ERROR] service=payment-api request_id=req-000594 message=InvalidRequest
+2026-08-08 08:29:45 [INFO] service=payment-api request_id=req-000595 message=Request completed successfully
+2026-08-08 08:29:48 [INFO] service=payment-api request_id=req-000596 message=Health check passed
+2026-08-08 08:29:51 [ERROR] service=payment-api request_id=req-000597 message=Timeout
+2026-08-08 08:29:54 [INFO] service=payment-api request_id=req-000598 message=Background job completed
+2026-08-08 08:29:57 [ERROR] service=payment-api request_id=req-000599 message=AuthenticationFailed
+2026-08-08 08:30:00 [ERROR] service=payment-api request_id=req-000600 message=AuthenticationFailed
+2026-08-08 08:30:03 [INFO] service=payment-api request_id=req-000601 message=Health check passed
+2026-08-08 08:30:06 [ERROR] service=payment-api request_id=req-000602 message=DatabaseConnectionFailed
+2026-08-08 08:30:09 [ERROR] service=payment-api request_id=req-000603 message=DatabaseConnectionFailed
+2026-08-08 08:30:12 [ERROR] service=payment-api request_id=req-000604 message=ConnectionRefused
+2026-08-08 08:30:15 [INFO] service=payment-api request_id=req-000605 message=Request completed successfully
+2026-08-08 08:30:18 [ERROR] service=payment-api request_id=req-000606 message=PermissionDenied
+2026-08-08 08:30:21 [ERROR] service=payment-api request_id=req-000607 message=AuthenticationFailed
+2026-08-08 08:30:24 [ERROR] service=payment-api request_id=req-000608 message=ConnectionRefused
+2026-08-08 08:30:27 [INFO] service=payment-api request_id=req-000609 message=Configuration loaded
+2026-08-08 08:30:30 [INFO] service=payment-api request_id=req-000610 message=Health check passed
+2026-08-08 08:30:33 [ERROR] service=payment-api request_id=req-000611 message=Timeout
+2026-08-08 08:30:36 [ERROR] service=payment-api request_id=req-000612 message=AuthenticationFailed
+2026-08-08 08:30:39 [ERROR] service=payment-api request_id=req-000613 message=PermissionDenied
+2026-08-08 08:30:42 [ERROR] service=payment-api request_id=req-000614 message=Timeout
+2026-08-08 08:30:45 [ERROR] service=payment-api request_id=req-000615 message=ConnectionRefused
+2026-08-08 08:30:48 [ERROR] service=payment-api request_id=req-000616 message=FileNotFound
+2026-08-08 08:30:51 [ERROR] service=payment-api request_id=req-000617 message=FileNotFound
+2026-08-08 08:30:54 [ERROR] service=payment-api request_id=req-000618 message=DatabaseConnectionFailed
+2026-08-08 08:30:57 [ERROR] service=payment-api request_id=req-000619 message=PermissionDenied
+2026-08-08 08:31:00 [ERROR] service=payment-api request_id=req-000620 message=Timeout
+2026-08-08 08:31:03 [ERROR] service=payment-api request_id=req-000621 message=PermissionDenied
+2026-08-08 08:31:06 [ERROR] service=payment-api request_id=req-000622 message=Timeout
+2026-08-08 08:31:09 [ERROR] service=payment-api request_id=req-000623 message=Timeout
+2026-08-08 08:31:12 [ERROR] service=payment-api request_id=req-000624 message=FileNotFound
+2026-08-08 08:31:15 [ERROR] service=payment-api request_id=req-000625 message=PermissionDenied
+2026-08-08 08:31:18 [ERROR] service=payment-api request_id=req-000626 message=AuthenticationFailed
+2026-08-08 08:31:21 [ERROR] service=payment-api request_id=req-000627 message=InvalidRequest
+2026-08-08 08:31:24 [ERROR] service=payment-api request_id=req-000628 message=DatabaseConnectionFailed
+2026-08-08 08:31:27 [ERROR] service=payment-api request_id=req-000629 message=InvalidRequest
+2026-08-08 08:31:30 [ERROR] service=payment-api request_id=req-000630 message=DatabaseConnectionFailed
+2026-08-08 08:31:33 [ERROR] service=payment-api request_id=req-000631 message=DatabaseConnectionFailed
+2026-08-08 08:31:36 [INFO] service=payment-api request_id=req-000632 message=Health check passed
+2026-08-08 08:31:39 [INFO] service=payment-api request_id=req-000633 message=Configuration loaded
+2026-08-08 08:31:42 [ERROR] service=payment-api request_id=req-000634 message=PermissionDenied
+2026-08-08 08:31:45 [ERROR] service=payment-api request_id=req-000635 message=Timeout
+2026-08-08 08:31:48 [INFO] service=payment-api request_id=req-000636 message=Background job completed
+2026-08-08 08:31:51 [ERROR] service=payment-api request_id=req-000637 message=FileNotFound
+2026-08-08 08:31:54 [ERROR] service=payment-api request_id=req-000638 message=DatabaseConnectionFailed
+2026-08-08 08:31:57 [ERROR] service=payment-api request_id=req-000639 message=AuthenticationFailed
+2026-08-08 08:32:00 [ERROR] service=payment-api request_id=req-000640 message=OutOfMemory
+2026-08-08 08:32:03 [ERROR] service=payment-api request_id=req-000641 message=Timeout
+2026-08-08 08:32:06 [INFO] service=payment-api request_id=req-000642 message=Configuration loaded
+2026-08-08 08:32:09 [INFO] service=payment-api request_id=req-000643 message=Request completed successfully
+2026-08-08 08:32:12 [ERROR] service=payment-api request_id=req-000644 message=ConnectionRefused
+2026-08-08 08:32:15 [ERROR] service=payment-api request_id=req-000645 message=FileNotFound
+2026-08-08 08:32:18 [ERROR] service=payment-api request_id=req-000646 message=ConnectionRefused
+2026-08-08 08:32:21 [ERROR] service=payment-api request_id=req-000647 message=OutOfMemory
+2026-08-08 08:32:24 [ERROR] service=payment-api request_id=req-000648 message=InvalidRequest
+2026-08-08 08:32:27 [ERROR] service=payment-api request_id=req-000649 message=Timeout
+2026-08-08 08:32:30 [ERROR] service=payment-api request_id=req-000650 message=Timeout
+2026-08-08 08:32:33 [INFO] service=payment-api request_id=req-000651 message=Request completed successfully
+2026-08-08 08:32:36 [INFO] service=payment-api request_id=req-000652 message=User logged in successfully
+2026-08-08 08:32:39 [ERROR] service=payment-api request_id=req-000653 message=ConnectionRefused
+2026-08-08 08:32:42 [ERROR] service=payment-api request_id=req-000654 message=PermissionDenied
+2026-08-08 08:32:45 [ERROR] service=payment-api request_id=req-000655 message=FileNotFound
+2026-08-08 08:32:48 [INFO] service=payment-api request_id=req-000656 message=Health check passed
+2026-08-08 08:32:51 [ERROR] service=payment-api request_id=req-000657 message=DatabaseConnectionFailed
+2026-08-08 08:32:54 [ERROR] service=payment-api request_id=req-000658 message=FileNotFound
+2026-08-08 08:32:57 [ERROR] service=payment-api request_id=req-000659 message=ConnectionRefused
+2026-08-08 08:33:00 [ERROR] service=payment-api request_id=req-000660 message=DatabaseConnectionFailed
+2026-08-08 08:33:03 [ERROR] service=payment-api request_id=req-000661 message=DatabaseConnectionFailed
+2026-08-08 08:33:06 [ERROR] service=payment-api request_id=req-000662 message=FileNotFound
+2026-08-08 08:33:09 [ERROR] service=payment-api request_id=req-000663 message=DatabaseConnectionFailed
+2026-08-08 08:33:12 [INFO] service=payment-api request_id=req-000664 message=Request completed successfully
+2026-08-08 08:33:15 [ERROR] service=payment-api request_id=req-000665 message=DatabaseConnectionFailed
+2026-08-08 08:33:18 [ERROR] service=payment-api request_id=req-000666 message=ServiceUnavailable
+2026-08-08 08:33:21 [ERROR] service=payment-api request_id=req-000667 message=InvalidRequest
+2026-08-08 08:33:24 [ERROR] service=payment-api request_id=req-000668 message=Timeout
+2026-08-08 08:33:27 [INFO] service=payment-api request_id=req-000669 message=Health check passed
+2026-08-08 08:33:30 [ERROR] service=payment-api request_id=req-000670 message=Timeout
+2026-08-08 08:33:33 [INFO] service=payment-api request_id=req-000671 message=Request completed successfully
+2026-08-08 08:33:36 [ERROR] service=payment-api request_id=req-000672 message=AuthenticationFailed
+2026-08-08 08:33:39 [ERROR] service=payment-api request_id=req-000673 message=OutOfMemory
+2026-08-08 08:33:42 [ERROR] service=payment-api request_id=req-000674 message=DatabaseConnectionFailed
+2026-08-08 08:33:45 [INFO] service=payment-api request_id=req-000675 message=Configuration loaded
+2026-08-08 08:33:48 [ERROR] service=payment-api request_id=req-000676 message=AuthenticationFailed
+2026-08-08 08:33:51 [INFO] service=payment-api request_id=req-000677 message=Background job completed
+2026-08-08 08:33:54 [ERROR] service=payment-api request_id=req-000678 message=DatabaseConnectionFailed
+2026-08-08 08:33:57 [ERROR] service=payment-api request_id=req-000679 message=FileNotFound
+2026-08-08 08:34:00 [ERROR] service=payment-api request_id=req-000680 message=FileNotFound
+2026-08-08 08:34:03 [INFO] service=payment-api request_id=req-000681 message=Health check passed
+2026-08-08 08:34:06 [ERROR] service=payment-api request_id=req-000682 message=AuthenticationFailed
+2026-08-08 08:34:09 [ERROR] service=payment-api request_id=req-000683 message=OutOfMemory
+2026-08-08 08:34:12 [ERROR] service=payment-api request_id=req-000684 message=CacheMiss
+2026-08-08 08:34:15 [INFO] service=payment-api request_id=req-000685 message=Health check passed
+2026-08-08 08:34:18 [INFO] service=payment-api request_id=req-000686 message=Background job completed
+2026-08-08 08:34:21 [ERROR] service=payment-api request_id=req-000687 message=InvalidToken
+2026-08-08 08:34:24 [ERROR] service=payment-api request_id=req-000688 message=Timeout
+2026-08-08 08:34:27 [ERROR] service=payment-api request_id=req-000689 message=PermissionDenied
+2026-08-08 08:34:30 [INFO] service=payment-api request_id=req-000690 message=Configuration loaded
+2026-08-08 08:34:33 [INFO] service=payment-api request_id=req-000691 message=Configuration loaded
+2026-08-08 08:34:36 [ERROR] service=payment-api request_id=req-000692 message=Timeout
+2026-08-08 08:34:39 [ERROR] service=payment-api request_id=req-000693 message=ConnectionRefused
+2026-08-08 08:34:42 [INFO] service=payment-api request_id=req-000694 message=User logged in successfully
+2026-08-08 08:34:45 [ERROR] service=payment-api request_id=req-000695 message=DatabaseConnectionFailed
+2026-08-08 08:34:48 [ERROR] service=payment-api request_id=req-000696 message=ServiceUnavailable
+2026-08-08 08:34:51 [ERROR] service=payment-api request_id=req-000697 message=DatabaseConnectionFailed
+2026-08-08 08:34:54 [ERROR] service=payment-api request_id=req-000698 message=ConnectionRefused
+2026-08-08 08:34:57 [ERROR] service=payment-api request_id=req-000699 message=ServiceUnavailable
+2026-08-08 08:35:00 [ERROR] service=payment-api request_id=req-000700 message=InvalidToken
+2026-08-08 08:35:03 [INFO] service=payment-api request_id=req-000701 message=Background job completed
+2026-08-08 08:35:06 [ERROR] service=payment-api request_id=req-000702 message=PermissionDenied
+2026-08-08 08:35:09 [ERROR] service=payment-api request_id=req-000703 message=ServiceUnavailable
+2026-08-08 08:35:12 [ERROR] service=payment-api request_id=req-000704 message=RateLimitExceeded
+2026-08-08 08:35:15 [ERROR] service=payment-api request_id=req-000705 message=OutOfMemory
+2026-08-08 08:35:18 [ERROR] service=payment-api request_id=req-000706 message=DatabaseConnectionFailed
+2026-08-08 08:35:21 [ERROR] service=payment-api request_id=req-000707 message=OutOfMemory
+2026-08-08 08:35:24 [INFO] service=payment-api request_id=req-000708 message=Request completed successfully
+2026-08-08 08:35:27 [INFO] service=payment-api request_id=req-000709 message=Configuration loaded
+2026-08-08 08:35:30 [INFO] service=payment-api request_id=req-000710 message=Request completed successfully
+2026-08-08 08:35:33 [INFO] service=payment-api request_id=req-000711 message=Request completed successfully
+2026-08-08 08:35:36 [ERROR] service=payment-api request_id=req-000712 message=ConnectionRefused
+2026-08-08 08:35:39 [ERROR] service=payment-api request_id=req-000713 message=OutOfMemory
+2026-08-08 08:35:42 [ERROR] service=payment-api request_id=req-000714 message=AuthenticationFailed
+2026-08-08 08:35:45 [ERROR] service=payment-api request_id=req-000715 message=AuthenticationFailed
+2026-08-08 08:35:48 [ERROR] service=payment-api request_id=req-000716 message=DatabaseConnectionFailed
+2026-08-08 08:35:51 [ERROR] service=payment-api request_id=req-000717 message=PermissionDenied
+2026-08-08 08:35:54 [INFO] service=payment-api request_id=req-000718 message=Request completed successfully
+2026-08-08 08:35:57 [ERROR] service=payment-api request_id=req-000719 message=OutOfMemory
+2026-08-08 08:36:00 [ERROR] service=payment-api request_id=req-000720 message=RateLimitExceeded
+2026-08-08 08:36:03 [INFO] service=payment-api request_id=req-000721 message=Health check passed
+2026-08-08 08:36:06 [ERROR] service=payment-api request_id=req-000722 message=DatabaseConnectionFailed
+2026-08-08 08:36:09 [ERROR] service=payment-api request_id=req-000723 message=DatabaseConnectionFailed
+2026-08-08 08:36:12 [ERROR] service=payment-api request_id=req-000724 message=DatabaseConnectionFailed
+2026-08-08 08:36:15 [ERROR] service=payment-api request_id=req-000725 message=DatabaseConnectionFailed
+2026-08-08 08:36:18 [ERROR] service=payment-api request_id=req-000726 message=ConnectionRefused
+2026-08-08 08:36:21 [ERROR] service=payment-api request_id=req-000727 message=ConnectionRefused
+2026-08-08 08:36:24 [ERROR] service=payment-api request_id=req-000728 message=DatabaseConnectionFailed
+2026-08-08 08:36:27 [INFO] service=payment-api request_id=req-000729 message=Configuration loaded
+2026-08-08 08:36:30 [ERROR] service=payment-api request_id=req-000730 message=ServiceUnavailable
+2026-08-08 08:36:33 [ERROR] service=payment-api request_id=req-000731 message=AuthenticationFailed
+2026-08-08 08:36:36 [ERROR] service=payment-api request_id=req-000732 message=FileNotFound
+2026-08-08 08:36:39 [INFO] service=payment-api request_id=req-000733 message=Configuration loaded
+2026-08-08 08:36:42 [INFO] service=payment-api request_id=req-000734 message=Background job completed
+2026-08-08 08:36:45 [ERROR] service=payment-api request_id=req-000735 message=Timeout
+2026-08-08 08:36:48 [INFO] service=payment-api request_id=req-000736 message=Health check passed
+2026-08-08 08:36:51 [ERROR] service=payment-api request_id=req-000737 message=CacheMiss
+2026-08-08 08:36:54 [INFO] service=payment-api request_id=req-000738 message=Health check passed
+2026-08-08 08:36:57 [ERROR] service=payment-api request_id=req-000739 message=InvalidToken
+2026-08-08 08:37:00 [ERROR] service=payment-api request_id=req-000740 message=Timeout
+2026-08-08 08:37:03 [ERROR] service=payment-api request_id=req-000741 message=DatabaseConnectionFailed
+2026-08-08 08:37:06 [ERROR] service=payment-api request_id=req-000742 message=ConnectionRefused
+2026-08-08 08:37:09 [ERROR] service=payment-api request_id=req-000743 message=PermissionDenied
+2026-08-08 08:37:12 [INFO] service=payment-api request_id=req-000744 message=Health check passed
+2026-08-08 08:37:15 [ERROR] service=payment-api request_id=req-000745 message=ConnectionRefused
+2026-08-08 08:37:18 [ERROR] service=payment-api request_id=req-000746 message=PermissionDenied
+2026-08-08 08:37:21 [ERROR] service=payment-api request_id=req-000747 message=Timeout
+2026-08-08 08:37:24 [ERROR] service=payment-api request_id=req-000748 message=AuthenticationFailed
+2026-08-08 08:37:27 [INFO] service=payment-api request_id=req-000749 message=Configuration loaded
+2026-08-08 08:37:30 [ERROR] service=payment-api request_id=req-000750 message=FileNotFound
+2026-08-08 08:37:33 [ERROR] service=payment-api request_id=req-000751 message=Timeout
+2026-08-08 08:37:36 [ERROR] service=payment-api request_id=req-000752 message=DatabaseConnectionFailed
+2026-08-08 08:37:39 [ERROR] service=payment-api request_id=req-000753 message=Timeout
+2026-08-08 08:37:42 [INFO] service=payment-api request_id=req-000754 message=Background job completed
+2026-08-08 08:37:45 [ERROR] service=payment-api request_id=req-000755 message=AuthenticationFailed
+2026-08-08 08:37:48 [ERROR] service=payment-api request_id=req-000756 message=CacheMiss
+2026-08-08 08:37:51 [INFO] service=payment-api request_id=req-000757 message=Request completed successfully
+2026-08-08 08:37:54 [ERROR] service=payment-api request_id=req-000758 message=DatabaseConnectionFailed
+2026-08-08 08:37:57 [ERROR] service=payment-api request_id=req-000759 message=AuthenticationFailed
+2026-08-08 08:38:00 [ERROR] service=payment-api request_id=req-000760 message=OutOfMemory
+2026-08-08 08:38:03 [ERROR] service=payment-api request_id=req-000761 message=Timeout
+2026-08-08 08:38:06 [ERROR] service=payment-api request_id=req-000762 message=FileNotFound
+2026-08-08 08:38:09 [ERROR] service=payment-api request_id=req-000763 message=OutOfMemory
+2026-08-08 08:38:12 [ERROR] service=payment-api request_id=req-000764 message=PermissionDenied
+2026-08-08 08:38:15 [ERROR] service=payment-api request_id=req-000765 message=Timeout
+2026-08-08 08:38:18 [ERROR] service=payment-api request_id=req-000766 message=AuthenticationFailed
+2026-08-08 08:38:21 [ERROR] service=payment-api request_id=req-000767 message=ConnectionRefused
+2026-08-08 08:38:24 [ERROR] service=payment-api request_id=req-000768 message=DatabaseConnectionFailed
+2026-08-08 08:38:27 [ERROR] service=payment-api request_id=req-000769 message=InvalidToken
+2026-08-08 08:38:30 [ERROR] service=payment-api request_id=req-000770 message=InvalidRequest
+2026-08-08 08:38:33 [ERROR] service=payment-api request_id=req-000771 message=FileNotFound
+2026-08-08 08:38:36 [INFO] service=payment-api request_id=req-000772 message=Request completed successfully
+2026-08-08 08:38:39 [ERROR] service=payment-api request_id=req-000773 message=ServiceUnavailable
+2026-08-08 08:38:42 [ERROR] service=payment-api request_id=req-000774 message=PermissionDenied
+2026-08-08 08:38:45 [ERROR] service=payment-api request_id=req-000775 message=DatabaseConnectionFailed
+2026-08-08 08:38:48 [ERROR] service=payment-api request_id=req-000776 message=PermissionDenied
+2026-08-08 08:38:51 [ERROR] service=payment-api request_id=req-000777 message=OutOfMemory
+2026-08-08 08:38:54 [ERROR] service=payment-api request_id=req-000778 message=CacheMiss
+2026-08-08 08:38:57 [ERROR] service=payment-api request_id=req-000779 message=Timeout
+2026-08-08 08:39:00 [ERROR] service=payment-api request_id=req-000780 message=OutOfMemory
+2026-08-08 08:39:03 [ERROR] service=payment-api request_id=req-000781 message=Timeout
+2026-08-08 08:39:06 [ERROR] service=payment-api request_id=req-000782 message=AuthenticationFailed
+2026-08-08 08:39:09 [INFO] service=payment-api request_id=req-000783 message=User logged in successfully
+2026-08-08 08:39:12 [ERROR] service=payment-api request_id=req-000784 message=DatabaseConnectionFailed
+2026-08-08 08:39:15 [ERROR] service=payment-api request_id=req-000785 message=AuthenticationFailed
+2026-08-08 08:39:18 [ERROR] service=payment-api request_id=req-000786 message=PermissionDenied
+2026-08-08 08:39:21 [INFO] service=payment-api request_id=req-000787 message=Health check passed
+2026-08-08 08:39:24 [ERROR] service=payment-api request_id=req-000788 message=RateLimitExceeded
+2026-08-08 08:39:27 [ERROR] service=payment-api request_id=req-000789 message=RateLimitExceeded
+2026-08-08 08:39:30 [ERROR] service=payment-api request_id=req-000790 message=DatabaseConnectionFailed
+2026-08-08 08:39:33 [ERROR] service=payment-api request_id=req-000791 message=CacheMiss
+2026-08-08 08:39:36 [ERROR] service=payment-api request_id=req-000792 message=DatabaseConnectionFailed
+2026-08-08 08:39:39 [INFO] service=payment-api request_id=req-000793 message=Request completed successfully
+2026-08-08 08:39:42 [ERROR] service=payment-api request_id=req-000794 message=ServiceUnavailable
+2026-08-08 08:39:45 [ERROR] service=payment-api request_id=req-000795 message=Timeout
+2026-08-08 08:39:48 [INFO] service=payment-api request_id=req-000796 message=Request completed successfully
+2026-08-08 08:39:51 [ERROR] service=payment-api request_id=req-000797 message=DatabaseConnectionFailed
+2026-08-08 08:39:54 [ERROR] service=payment-api request_id=req-000798 message=DatabaseConnectionFailed
+2026-08-08 08:39:57 [ERROR] service=payment-api request_id=req-000799 message=OutOfMemory
+2026-08-08 08:40:00 [ERROR] service=payment-api request_id=req-000800 message=Timeout
+2026-08-08 08:40:03 [ERROR] service=payment-api request_id=req-000801 message=FileNotFound
+2026-08-08 08:40:06 [ERROR] service=payment-api request_id=req-000802 message=AuthenticationFailed
+2026-08-08 08:40:09 [ERROR] service=payment-api request_id=req-000803 message=PermissionDenied
+2026-08-08 08:40:12 [INFO] service=payment-api request_id=req-000804 message=User logged in successfully
+2026-08-08 08:40:15 [INFO] service=payment-api request_id=req-000805 message=Configuration loaded
+2026-08-08 08:40:18 [ERROR] service=payment-api request_id=req-000806 message=FileNotFound
+2026-08-08 08:40:21 [ERROR] service=payment-api request_id=req-000807 message=DatabaseConnectionFailed
+2026-08-08 08:40:24 [ERROR] service=payment-api request_id=req-000808 message=AuthenticationFailed
+2026-08-08 08:40:27 [ERROR] service=payment-api request_id=req-000809 message=DatabaseConnectionFailed
+2026-08-08 08:40:30 [ERROR] service=payment-api request_id=req-000810 message=FileNotFound
+2026-08-08 08:40:33 [INFO] service=payment-api request_id=req-000811 message=Health check passed
+2026-08-08 08:40:36 [ERROR] service=payment-api request_id=req-000812 message=InvalidRequest
+2026-08-08 08:40:39 [ERROR] service=payment-api request_id=req-000813 message=DatabaseConnectionFailed
+2026-08-08 08:40:42 [ERROR] service=payment-api request_id=req-000814 message=Timeout
+2026-08-08 08:40:45 [ERROR] service=payment-api request_id=req-000815 message=PermissionDenied
+2026-08-08 08:40:48 [ERROR] service=payment-api request_id=req-000816 message=AuthenticationFailed
+2026-08-08 08:40:51 [ERROR] service=payment-api request_id=req-000817 message=AuthenticationFailed
+2026-08-08 08:40:54 [ERROR] service=payment-api request_id=req-000818 message=DatabaseConnectionFailed
+2026-08-08 08:40:57 [INFO] service=payment-api request_id=req-000819 message=Request completed successfully
+2026-08-08 08:41:00 [ERROR] service=payment-api request_id=req-000820 message=DatabaseConnectionFailed
+2026-08-08 08:41:03 [ERROR] service=payment-api request_id=req-000821 message=InvalidToken
+2026-08-08 08:41:06 [INFO] service=payment-api request_id=req-000822 message=User logged in successfully
+2026-08-08 08:41:09 [ERROR] service=payment-api request_id=req-000823 message=ServiceUnavailable
+2026-08-08 08:41:12 [ERROR] service=payment-api request_id=req-000824 message=Timeout
+2026-08-08 08:41:15 [INFO] service=payment-api request_id=req-000825 message=Request completed successfully
+2026-08-08 08:41:18 [ERROR] service=payment-api request_id=req-000826 message=CacheMiss
+2026-08-08 08:41:21 [ERROR] service=payment-api request_id=req-000827 message=AuthenticationFailed
+2026-08-08 08:41:24 [ERROR] service=payment-api request_id=req-000828 message=CacheMiss
+2026-08-08 08:41:27 [ERROR] service=payment-api request_id=req-000829 message=OutOfMemory
+2026-08-08 08:41:30 [ERROR] service=payment-api request_id=req-000830 message=DatabaseConnectionFailed
+2026-08-08 08:41:33 [ERROR] service=payment-api request_id=req-000831 message=RateLimitExceeded
+2026-08-08 08:41:36 [ERROR] service=payment-api request_id=req-000832 message=ServiceUnavailable
+2026-08-08 08:41:39 [INFO] service=payment-api request_id=req-000833 message=Health check passed
+2026-08-08 08:41:42 [ERROR] service=payment-api request_id=req-000834 message=RateLimitExceeded
+2026-08-08 08:41:45 [INFO] service=payment-api request_id=req-000835 message=Request completed successfully
+2026-08-08 08:41:48 [ERROR] service=payment-api request_id=req-000836 message=FileNotFound
+2026-08-08 08:41:51 [ERROR] service=payment-api request_id=req-000837 message=ConnectionRefused
+2026-08-08 08:41:54 [INFO] service=payment-api request_id=req-000838 message=Background job completed
+2026-08-08 08:41:57 [ERROR] service=payment-api request_id=req-000839 message=AuthenticationFailed
+2026-08-08 08:42:00 [ERROR] service=payment-api request_id=req-000840 message=InvalidToken
+2026-08-08 08:42:03 [ERROR] service=payment-api request_id=req-000841 message=OutOfMemory
+2026-08-08 08:42:06 [ERROR] service=payment-api request_id=req-000842 message=PermissionDenied
+2026-08-08 08:42:09 [ERROR] service=payment-api request_id=req-000843 message=InvalidRequest
+2026-08-08 08:42:12 [INFO] service=payment-api request_id=req-000844 message=User logged in successfully
+2026-08-08 08:42:15 [ERROR] service=payment-api request_id=req-000845 message=FileNotFound
+2026-08-08 08:42:18 [ERROR] service=payment-api request_id=req-000846 message=DatabaseConnectionFailed
+2026-08-08 08:42:21 [ERROR] service=payment-api request_id=req-000847 message=PermissionDenied
+2026-08-08 08:42:24 [ERROR] service=payment-api request_id=req-000848 message=ConnectionRefused
+2026-08-08 08:42:27 [ERROR] service=payment-api request_id=req-000849 message=Timeout
+2026-08-08 08:42:30 [ERROR] service=payment-api request_id=req-000850 message=Timeout
+2026-08-08 08:42:33 [INFO] service=payment-api request_id=req-000851 message=Background job completed
+2026-08-08 08:42:36 [ERROR] service=payment-api request_id=req-000852 message=DatabaseConnectionFailed
+2026-08-08 08:42:39 [ERROR] service=payment-api request_id=req-000853 message=DatabaseConnectionFailed
+2026-08-08 08:42:42 [ERROR] service=payment-api request_id=req-000854 message=ConnectionRefused
+2026-08-08 08:42:45 [ERROR] service=payment-api request_id=req-000855 message=FileNotFound
+2026-08-08 08:42:48 [ERROR] service=payment-api request_id=req-000856 message=DatabaseConnectionFailed
+2026-08-08 08:42:51 [ERROR] service=payment-api request_id=req-000857 message=FileNotFound
+2026-08-08 08:42:54 [INFO] service=payment-api request_id=req-000858 message=User logged in successfully
+2026-08-08 08:42:57 [INFO] service=payment-api request_id=req-000859 message=Configuration loaded
+2026-08-08 08:43:00 [ERROR] service=payment-api request_id=req-000860 message=DatabaseConnectionFailed
+2026-08-08 08:43:03 [ERROR] service=payment-api request_id=req-000861 message=InvalidRequest
+2026-08-08 08:43:06 [ERROR] service=payment-api request_id=req-000862 message=DatabaseConnectionFailed
+2026-08-08 08:43:09 [ERROR] service=payment-api request_id=req-000863 message=Timeout
+2026-08-08 08:43:12 [ERROR] service=payment-api request_id=req-000864 message=Timeout
+2026-08-08 08:43:15 [ERROR] service=payment-api request_id=req-000865 message=Timeout
+2026-08-08 08:43:18 [ERROR] service=payment-api request_id=req-000866 message=InvalidRequest
+2026-08-08 08:43:21 [ERROR] service=payment-api request_id=req-000867 message=DatabaseConnectionFailed
+2026-08-08 08:43:24 [INFO] service=payment-api request_id=req-000868 message=Health check passed
+2026-08-08 08:43:27 [ERROR] service=payment-api request_id=req-000869 message=PermissionDenied

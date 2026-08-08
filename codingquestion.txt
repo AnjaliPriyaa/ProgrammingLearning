@@ -1,0 +1,400 @@
+PYTHON CODING INTERVIEW PRACTICE QUESTIONS
+==============================================
+
+1. BASIC INPUT / OUTPUT
+-----------------------
+1. Take a number as input and print it.
+2. Take a string as input and print it.
+3. Take multiple numbers from the user and store them in an array.
+4. Take n numbers from the user and print them.
+5. Take multiple strings from the user and store them in an array.
+6. Concatenate two strings.
+7. Merge two arrays.
+8. Find the length of a string without using len().
+9. Find the length of an array without using len().
+10. Print each element of an array on a separate line.
+11. Print an array in reverse order.
+12. Print a string in reverse order.
+13. Swap two numbers without using a third variable.
+14. Find the largest of three numbers.
+
+2. STRINGS - BASIC
+------------------
+15. Find the first occurrence of a character in a string.
+16. Find all occurrences of a character in a string.
+17. Find the first occurrence of a substring.
+18. Count occurrences of a character.
+19. Count occurrences of every character.
+20. Find the first non-repeating character.
+21. Find the first repeating character.
+22. Find all non-repeating characters.
+23. Find all repeating characters.
+24. Remove duplicate characters from a string.
+25. Check whether a string contains only digits.
+26. Check whether a string contains only alphabets.
+27. Convert lowercase characters to uppercase without using .upper().
+28. Convert uppercase characters to lowercase without using .lower().
+29. Reverse a string.
+30. Check whether a string is a palindrome.
+31. Count vowels and consonants.
+32. Count spaces in a string.
+33. Remove spaces from a string.
+34. Replace every occurrence of a character with another character.
+
+3. ARRAYS / LISTS - BASIC
+-------------------------
+35. Find the largest element in an array.
+36. Find the smallest element in an array.
+37. Find the second largest element.
+38. Find the second smallest element.
+39. Calculate the sum of all elements.
+40. Calculate the average of all elements.
+41. Count even and odd numbers.
+42. Find all even numbers.
+43. Find all odd numbers.
+44. Reverse an array.
+45. Find the first occurrence of an element.
+46. Find all occurrences of an element.
+47. Count occurrences of an element.
+48. Remove an element from an array.
+49. Remove all occurrences of an element.
+50. Remove duplicate elements.
+51. Find unique elements in an array.
+52. Find duplicate elements in an array.
+53. Find elements that occur exactly once.
+54. Find elements that occur more than once.
+
+4. SORTING
+----------
+55. Sort an array using built-in methods.
+56. Sort an array without modifying the original array.
+57. Sort an array in descending order.
+58. Sort an array of strings alphabetically.
+59. Sort an array based on string length.
+60. Sort an array of tuples based on the second element.
+61. Implement Bubble Sort.
+62. Implement Selection Sort.
+63. Implement Insertion Sort.
+64. Find the kth largest element.
+65. Find the kth smallest element.
+
+5. MERGING ARRAYS
+-----------------
+66. Merge two arrays.
+67. Merge two arrays and remove duplicates.
+68. Merge two sorted arrays.
+69. Merge two sorted arrays without using sort().
+70. Find common elements between two arrays.
+71. Find elements present in the first array but not the second.
+72. Find elements present in either array but not both.
+73. Find the intersection of two arrays.
+74. Find the union of two arrays.
+
+6. REPEATING / NON-REPEATING ELEMENTS
+--------------------------------------
+75. Find the first repeating element in an array.
+76. Find the first non-repeating element in an array.
+77. Find the first repeating character in a string.
+78. Find the first non-repeating character in a string.
+79. Find all repeating elements.
+80. Find all non-repeating elements.
+81. Find the element with the highest frequency.
+82. Find the element with the lowest frequency.
+83. Find the top 2 most frequent elements.
+84. Find the character with the highest frequency in a string.
+
+7. HASHMAP / DICTIONARY PRACTICE
+--------------------------------
+85. Create a frequency dictionary for an array.
+86. Create a frequency dictionary for a string.
+87. Find duplicate elements using a dictionary.
+88. Find the first repeating element using a dictionary.
+89. Find the first non-repeating element using a dictionary.
+90. Find the most frequent element.
+91. Find the least frequent element.
+92. Group words based on their first character.
+93. Group words based on their length.
+94. Count the number of words in a sentence.
+95. Find the most frequent word in a sentence.
+
+8. ARRAY PROBLEMS - INTERVIEW LEVEL
+-----------------------------------
+96. Find the missing number.
+97. Find the duplicate number.
+98. Find two numbers whose sum equals a target (Two Sum).
+99. Find all pairs whose sum equals a target.
+100. Find three numbers whose sum equals a target (Three Sum).
+101. Find the maximum difference between two elements.
+102. Move all zeros to the end.
+103. Move all negative numbers to one side.
+104. Find the maximum consecutive 1s.
+105. Find the maximum sum subarray.
+106. Find the minimum sum subarray.
+107. Find the maximum product of two elements.
+108. Find common elements in three sorted arrays.
+109. Rotate an array left by k positions.
+110. Rotate an array right by k positions.
+111. Check whether one array is a rotation of another.
+
+9. STRING INTERVIEW PROBLEMS
+----------------------------
+112. Check whether two strings are anagrams.
+113. Find all anagrams of a string.
+114. Check whether two strings are rotations of each other.
+115. Find the longest word in a sentence.
+116. Find the shortest word in a sentence.
+117. Reverse the words in a sentence.
+118. Reverse each word without changing word order.
+119. Find the longest substring without repeating characters.
+120. Find the longest palindromic substring.
+121. Check whether a string contains balanced parentheses.
+122. Remove duplicate words from a sentence.
+123. Find the most frequent word.
+124. Find the first unique word.
+
+10. FILE HANDLING - BASIC
+-------------------------
+125. Create a file and write some content.
+126. Read the contents of a file.
+127. Print every line of a file.
+128. Count the number of lines.
+129. Count the number of words.
+130. Count the number of characters.
+131. Find the longest line.
+132. Find the shortest line.
+133. Search for a particular word in a file.
+134. Count how many times a word occurs.
+
+11. FILE MODIFICATION
+---------------------
+135. Read a file and replace a particular word.
+136. Read a file and replace multiple words.
+137. Remove blank lines from a file.
+138. Remove duplicate lines.
+139. Add line numbers to every line.
+140. Read a file, modify its contents, and write the result into another file.
+141. Read a file and remove unnecessary spaces.
+
+12. FILE + DATA PROCESSING
+--------------------------
+142. Read numbers from a file and calculate their sum.
+143. Read numbers from a file and find the maximum.
+144. Read numbers from a file and find duplicates.
+145. Read a file and find n unique elements.
+146. Read a file and find the n most frequent words.
+147. Read a CSV-like file and calculate totals.
+148. Read employee data from a file and find the highest salary.
+149. Read employee data and group employees by department.
+150. Read a file and find malformed/invalid records.
+151. Read a file and separate valid and invalid records into two files.
+
+13. LOG FILE PROBLEMS
+---------------------
+152. Read logs from a file and print each line.
+153. Sort logs based on timestamp.
+154. Find all ERROR logs.
+155. Count INFO, WARNING, and ERROR logs.
+156. Find the first error in the log.
+157. Find the latest error.
+158. Find the number of errors per day.
+159. Find the most common error message.
+160. Find all logs generated by a particular user.
+161. Find logs between two timestamps.
+162. Find the earliest and latest timestamp.
+163. Detect duplicate log entries.
+164. Find the number of requests per minute.
+165. Find the busiest hour.
+166. Find users who generated more than N errors.
+
+14. IMPORTANT INTERVIEW PROBLEMS
+--------------------------------
+167. Two Sum.
+168. Three Sum.
+169. Valid Parentheses.
+170. Palindrome.
+171. Valid Anagram.
+172. First Unique Character.
+173. Contains Duplicate.
+174. Best Time to Buy and Sell Stock.
+175. Maximum Subarray.
+176. Move Zeroes.
+177. Merge Sorted Arrays.
+178. Remove Duplicates from Sorted Array.
+179. Binary Search.
+180. Find First and Last Position of Element.
+181. Find Missing Number.
+182. Find Duplicate Number.
+183. Majority Element.
+184. Rotate Array.
+185. Longest Substring Without Repeating Characters.
+186. Group Anagrams.
+187. Top K Frequent Elements.
+
+15. ADDITIONAL HIGH-VALUE PRACTICE
+----------------------------------
+188. Find the intersection of two arrays without duplicates.
+189. Find the union of two arrays without duplicates.
+190. Find the difference between two arrays.
+191. Find the symmetric difference between two arrays.
+192. Find the longest consecutive sequence in an array.
+193. Find whether an array contains a subarray with sum zero.
+194. Find a pair with a given difference.
+195. Find all pairs with a given difference.
+196. Find the majority element appearing more than n/2 times.
+197. Find all majority elements appearing more than n/3 times.
+198. Find the product of all array elements except the current element.
+199. Find the maximum sum of a subarray of fixed size k.
+200. Find the minimum sum of a subarray of fixed size k.
+201. Find the first positive missing number.
+202. Rearrange an array so positive and negative numbers alternate.
+203. Find the equilibrium index of an array.
+204. Find the leaders in an array.
+205. Find the next greater element for every array element.
+206. Check whether an array is sorted.
+207. Check whether an array is sorted and rotated.
+208. Find the median of two sorted arrays.
+209. Find the kth smallest element without fully sorting the array.
+
+16. MORE STRING PRACTICE
+------------------------
+210. Check whether a string is a palindrome ignoring spaces and punctuation.
+211. Check whether two strings are one edit away.
+212. Find the longest common prefix among strings.
+213. Find the longest common suffix among strings.
+214. Find the longest word containing only unique characters.
+215. Count the number of words with repeated characters.
+216. Remove all duplicate words while preserving order.
+217. Find the first repeated word in a sentence.
+218. Find the first non-repeated word in a sentence.
+219. Find all substrings of a string.
+220. Count all palindromic substrings.
+221. Check whether a string can be rearranged into a palindrome.
+222. Compress a string using character counts.
+223. Decompress a compressed string.
+224. Find the character with the second highest frequency.
+225. Find the longest substring containing at most k distinct characters.
+226. Find the minimum window containing all characters of another string.
+227. Check whether one string is a subsequence of another.
+228. Find the number of times one string occurs as a substring of another.
+229. Replace multiple spaces with a single space.
+
+17. STACK / QUEUE BASICS
+------------------------
+230. Implement a stack using a list.
+231. Implement a queue using a list.
+232. Implement a stack using two queues.
+233. Implement a queue using two stacks.
+234. Check balanced brackets using a stack.
+235. Reverse a stack.
+236. Find the minimum element in a stack.
+237. Evaluate a postfix expression.
+238. Convert infix expression to postfix.
+239. Find the next greater element using a stack.
+
+18. SEARCHING
+-------------
+240. Linear search.
+241. Binary search.
+242. Find the first occurrence using binary search.
+243. Find the last occurrence using binary search.
+244. Count occurrences in a sorted array using binary search.
+245. Find the insertion position of an element.
+246. Search in a rotated sorted array.
+247. Find the minimum element in a rotated sorted array.
+
+19. TWO POINTER / SLIDING WINDOW
+--------------------------------
+248. Find two numbers with a target sum in a sorted array.
+249. Remove duplicates from a sorted array using two pointers.
+250. Move zeros to the end using two pointers.
+251. Reverse an array using two pointers.
+252. Check palindrome using two pointers.
+253. Find the maximum sum of k consecutive elements.
+254. Find the longest substring with no repeating characters.
+255. Find the longest substring with at most k distinct characters.
+256. Find the smallest subarray with sum greater than or equal to a target.
+257. Find all anagrams of a pattern in a string.
+
+20. FILE / LOG INTERVIEW PRACTICE
+---------------------------------
+258. Read a large file line by line without loading the whole file into memory.
+259. Count unique words in a large file.
+260. Find the top 10 most frequent words in a file.
+261. Find duplicate lines in a file.
+262. Find unique lines in a file.
+263. Compare two files and find lines present only in the first file.
+264. Compare two files and find lines present only in the second file.
+265. Find common lines between two files.
+266. Merge two files into a third file.
+267. Split a large file into smaller files.
+268. Search a large log file for a keyword.
+269. Count ERROR/WARNING/INFO entries in a log.
+270. Sort log entries by timestamp.
+271. Find logs from a specific date.
+272. Find logs between two timestamps.
+273. Find the most common error message.
+274. Find the user with the most errors.
+275. Find users who have more than N failed requests.
+276. Remove duplicate log entries.
+277. Extract IP addresses from log entries.
+278. Count requests per IP address.
+279. Find the IP address with the highest number of requests.
+
+21. MIXED INTERVIEW CHALLENGES
+------------------------------
+280. Given an array, find the first element that occurs twice.
+281. Given an array, find the first element that occurs only once.
+282. Given a string, find the first character that occurs twice.
+283. Given a string, find the first character that occurs only once.
+284. Merge two lists while preserving their original order.
+285. Merge multiple lists into one list.
+286. Flatten a nested list.
+287. Remove duplicates from a nested list.
+288. Find the maximum value in a nested list.
+289. Find the sum of all values in a nested list.
+290. Find common elements across multiple arrays.
+291. Find the most frequent element across multiple arrays.
+292. Group an array of strings by their length.
+293. Group an array of strings by anagrams.
+294. Sort dictionary data by key.
+295. Sort dictionary data by value.
+296. Find the key with the maximum value in a dictionary.
+297. Invert a dictionary.
+298. Merge two dictionaries.
+299. Find common keys between two dictionaries.
+
+RECOMMENDED PROGRESSION
+=======================
+Start with 1-35:
+Input, strings, and basic Python.
+
+Then 36-75:
+Lists, duplicates, frequency, sorting, and merging.
+
+Then 76-96:
+Repeating/non-repeating elements and dictionaries.
+
+Then 97-125:
+Interview-level array and string problems.
+
+Then 126-167:
+File handling, data processing, and log parsing.
+
+Then 168-188:
+High-value interview problems.
+
+Finally 189-300:
+Additional interview-level practice covering arrays, strings,
+stacks, queues, searching, sliding window, two pointers, files, and logs.
+
+FOR EACH PROBLEM
+================
+Try to solve each problem in this order:
+
+1. Write a straightforward solution.
+2. Test it with normal, empty, and edge-case inputs.
+3. Look for a simpler Python solution.
+4. Analyze time complexity.
+5. Analyze space complexity.
+6. Try to optimize it if possible.
+7. Explain your solution aloud as if you were in an interview.

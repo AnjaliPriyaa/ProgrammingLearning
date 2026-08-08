@@ -1,0 +1,48 @@
+1. Log analysis
+
+Given millions of log lines, find the top 10 error types without loading the entire file into memory.
+
+2. Security findings
+
+You receive CSPM findings from an API. Write Python code that groups them by severity and automatically creates remediation tasks for critical findings.
+
+3. Retry mechanism
+
+Implement an API client with exponential backoff and a maximum retry count.
+
+4. Rate limiting
+
+Implement a simple token-bucket/rate-limiter for AI agent tool calls.
+
+5. Agent telemetry
+
+Given:
+
+request_id, agent_id, tool, status, latency
+
+calculate:
+
+error rate
+average latency
+per-tool failure rate
+top failing tools
+
+6. Suspicious tool calls
+
+Write a function that detects an agent repeatedly calling the same sensitive tool within a short period.
+
+7. Large-file processing
+
+Find all requests with HTTP 5xx responses from a 10-GB log file.
+
+8. API pagination
+
+Write Python code to retrieve all pages from a REST API and handle failures.
+
+9. Concurrent processing
+
+You have 10,000 security findings. Process them concurrently but limit execution to 10 workers.
+
+10. Secret detection
+
+Scan a stream of configuration/log data and identify possible exposed AWS keys or tokens.
