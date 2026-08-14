@@ -60,7 +60,7 @@ def countoccurenceofeverychar(s):
 
 print(countoccurenceofeverychar(input_string))
 
-20. Find the first non-repeating character.
+#20. Find the first non-repeating character.
 input_string='abcacbfadbbabace'
 newdict={}
 def nonrepeatingcharacter(input_string):
@@ -76,7 +76,7 @@ def nonrepeatingcharacter(input_string):
 
 print(nonrepeatingcharacter(input_string))
 
-21. Find the first repeating character.
+#21. Find the first repeating character.
 input_string='abcefhbfadbbabace'
 
 def firstrepeatingchar(input_string):
@@ -229,7 +229,7 @@ def countspaces(input_string):
 
 print(countspaces(input_string))
 
-(imp)34. Replace every occurrence of a character with another character.(You are given a string and two characters: A character to find A character to replace it with You need to replace every occurrence of the first character with the second character.)
+#(imp)34. Replace every occurrence of a character with another character.(You are given a string and two characters: A character to find A character to replace it with You need to replace every occurrence of the first character with the second character.)
 input_string = list("banana")
 input_string = "banana"
 old_char = "a"
