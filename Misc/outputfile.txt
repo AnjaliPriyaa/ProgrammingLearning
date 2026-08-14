@@ -1,0 +1,3 @@
+Hello, this is my first file.
+I am learning Python file handling.
+This content is written using Python.
