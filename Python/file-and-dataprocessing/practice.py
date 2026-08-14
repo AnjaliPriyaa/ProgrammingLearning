@@ -1,23 +1,12 @@
-#Given millions of log lines, find the top 10 error types without loading the entire file into memory.
-
-uniqe_errors = {}
-# count_connection_refused = 0
-with open('./Misc/sample_app.log') as f:
-    for line in f:
-
-        if "ERROR" in line:
-            split_list= line.split(" ")
-
-            error_type = split_list[-1].strip("message=\n")
-
-            if error_type not in uniqe_errors:
-                uniqe_errors[error_type] = 0
-            
-            uniqe_errors[error_type] = uniqe_errors[error_type] + 1
 
 
-print(uniqe_errors)
-# {
-#     PermissionDenied : '',
-#     FileNotFound : ''
-# }
+# 142. Read numbers from a file and calculate their sum.
+# 143. Read numbers from a file and find the maximum.
+# 144. Read numbers from a file and find duplicates.
+# 145. Read a file and find n unique elements.
+# 146. Read a file and find the n most frequent words.
+# 147. Read a CSV-like file and calculate totals.
+# 148. Read employee data from a file and find the highest salary.
+# 149. Read employee data and group employees by department.
+# 150. Read a file and find malformed/invalid records.
+# 151. Read a file and separate valid and invalid records into two files.

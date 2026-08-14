@@ -174,7 +174,7 @@ removeelement(input_array)iPYTHON CODING INTERVIEW PRACTICE QUESTIONS
 139. Add line numbers to every line.
 140. Read a file, modify its contents, and write the result into another file.
 141. Read a file and remove unnecessary spaces.
-
+    
 12. FILE + DATA PROCESSING
 --------------------------
 142. Read numbers from a file and calculate their sum.
