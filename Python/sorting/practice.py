@@ -16,6 +16,15 @@
 # print(new)
 
 # 58. Sort an array of strings alphabetically.
+input_array1 = ["d", "a", "c", "f", "b", "e"]
+input_array2 = ["banana", "apple", "orange", "grape", "mango", "kiwi"]
+for i in input_array1:
+    newarray1= sorted(input_array1)
+for i in input_array2:
+    newarray2= sorted(input_array2)
+print(newarray1)
+print(newarray2)
+
 # 59. Sort an array based on string length.
 # 60. Sort an array of tuples based on the second element.
 # 61. Sort an Array of Dictionaries by a Key
