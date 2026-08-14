@@ -74,14 +74,15 @@ employees = [
     {"name": "Priya", "age": 29},
     {"name": "Somya", "age": 22}
 ]
-def sortdictionarybykey(employees):
+key = "age"
+def sortdictionarybykey(employees,key):
     key = "age"
     for i in range(len(employees)):
         for j in range(len(employees) - 1 - i):
             if employees[j][key] > employees[j+1][key]:
                 employees[j],employees[j+1] = employees[j+1],employees[j]
     return employees       
-print(sortdictionarybykey(employees))
+print(sortdictionarybykey(employees,key))
 
 
 #(imp) 64. Find the kth largest element.
@@ -107,6 +108,7 @@ def kthlargest(input_array,k):
                 input_array[j],input_array[j+1] = input_array[j+1],input_array[j]
     return input_array[n-1-k]
 print(kthlargest(input_array,k))   
+
 #65. Find the kth smallest element
 input_array = [3, 2, 1, 5, 6, 4]
 k = 1 #starts with 0
