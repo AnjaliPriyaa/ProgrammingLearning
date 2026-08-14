@@ -1,4 +1,4 @@
-PYTHON CODING INTERVIEW PRACTICE QUESTIONS
+removeelement(input_array)iPYTHON CODING INTERVIEW PRACTICE QUESTIONS
 ==============================================
 
 1. BASIC INPUT / OUTPUT
@@ -53,8 +53,8 @@ PYTHON CODING INTERVIEW PRACTICE QUESTIONS
 42. Find all even numbers.
 43. Find all odd numbers.
 44. Reverse an array.
-45. Find the first occurrence of an element.
-46. Find all occurrences of an element.
+45. Find the first occurrence of an element.Given an array and a target element, find the index/position of the first time that element appears.
+46. Find all occurrences of an element.Given an array and a target element, find every index where that element appears
 47. Count occurrences of an element.
 48. Remove an element from an array.
 49. Remove all occurrences of an element.
@@ -62,7 +62,7 @@ PYTHON CODING INTERVIEW PRACTICE QUESTIONS
 51. Find unique elements in an array.
 52. Find duplicate elements in an array.
 53. Find elements that occur exactly once.
-54. Find elements that occur more than once.
+54. Find elements that occur more than once. SKIP repeated
 
 4. SORTING
 ----------
