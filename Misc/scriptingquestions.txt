@@ -4,7 +4,6 @@ Must Know
 
 1. Given a log file, find HTTP response codes along with timestamps and hit counts.
 2. Find the Top K error types from a huge log file.
-3. Process a large file without loading it into memory.
 4. Read a dataset/file and index content based on CPU usage.
 5. Parse and filter a JSON/API response.
 6. Find numbers that sum to a target.
