@@ -1,6 +1,7 @@
 (
     "2026-08-14 09:15:10 INFO user=alice action=login status=success\n"
     "2026-08-14 09:16:22 INFO user=bob action=login status=success\n"
+        "2026-08-14 11:15:45 ERROR user=bob message=Permission denied\n"
     "2026-08-14 09:17:05 WARNING user=alice action=login status=failed\n"
     "2026-08-14 09:18:30 ERROR user=alice message=Database connection failed\n"
     "2026-08-14 09:19:12 INFO user=charlie action=login status=success\n"
@@ -14,7 +15,6 @@
     "2026-08-14 11:00:10 INFO user=bob action=download status=success\n"
     "2026-08-14 11:05:25 ERROR user=charlie message=Permission denied\n"
     "2026-08-14 11:10:30 INFO user=alice action=login status=success\n"
-    "2026-08-14 11:15:45 ERROR user=bob message=File not found\n"
     "2026-08-14 11:20:50 ERROR user=bob message=File not found\n"
     "2026-08-14 11:25:05 WARNING user=alice action=login status=failed\n"
     "2026-08-14 12:00:15 INFO user=charlie action=logout status=success\n"
