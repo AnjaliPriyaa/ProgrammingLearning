@@ -362,39 +362,3 @@ removeelement(input_array)iPYTHON CODING INTERVIEW PRACTICE QUESTIONS
 297. Invert a dictionary.
 298. Merge two dictionaries.
 299. Find common keys between two dictionaries.
-
-RECOMMENDED PROGRESSION
-=======================
-Start with 1-35:
-Input, strings, and basic Python.
-
-Then 36-75:
-Lists, duplicates, frequency, sorting, and merging.
-
-Then 76-96:
-Repeating/non-repeating elements and dictionaries.
-
-Then 97-125:
-Interview-level array and string problems.
-
-Then 126-167:
-File handling, data processing, and log parsing.
-
-Then 168-188:
-High-value interview problems.
-
-Finally 189-300:
-Additional interview-level practice covering arrays, strings,
-stacks, queues, searching, sliding window, two pointers, files, and logs.
-
-FOR EACH PROBLEM
-================
-Try to solve each problem in this order:
-
-1. Write a straightforward solution.
-2. Test it with normal, empty, and edge-case inputs.
-3. Look for a simpler Python solution.
-4. Analyze time complexity.
-5. Analyze space complexity.
-6. Try to optimize it if possible.
-7. Explain your solution aloud as if you were in an interview.

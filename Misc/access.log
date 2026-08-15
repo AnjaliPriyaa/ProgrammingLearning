@@ -1,0 +1,12 @@
+2026-08-15 10:01:02 GET /api/users responseCode 200 TTL:2200
+2026-08-15 10:01:05 GET /api/users responseCode 200 TTL:2200
+2026-08-15 10:02:10 POST /api/login responseCode 401 TTL:2200
+2026-08-15 10:02:15 GET /api/users responseCode 200 TTL:2200
+2026-08-15 10:03:20 GET /api/orders responsecode 404 TTL:2200
+2026-08-15 10:03:25 GET /api/orders ResponseCode 404 TTL:2200
+2026-08-15 10:04:30 POST /api/login responseCode TTL:2200
+2026-08-15 10:05:10 GET /api/users responseCode 200 TTL:2200
+2026-08-15 12:10:10 UIR /home/website responseCode 400 TTL:2200
+2026-08-15 12:10:10 UIR /home/website responseCode ABC TTL:2000
+2026-08-15 12:10:10 UIR /home/website TTL:2000
+2026-08-15 12:10:10 UIR /home/website responsecode 400 TTL:2000

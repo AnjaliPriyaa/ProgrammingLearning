@@ -1,0 +1,28 @@
+### Python / scripting
+
+Must Know
+
+1. Given a log file, find HTTP response codes along with timestamps and hit counts.
+2. Find the Top K error types from a huge log file.
+3. Process a large file without loading it into memory.
+4. Read a dataset/file and index content based on CPU usage.
+5. Parse and filter a JSON/API response.
+6. Find numbers that sum to a target.
+7. Find all commented lines in a given directory.
+8. Find the first non-repeating character.
+9. Find duplicate entries in a large file.
+10. Count the frequency of words/errors.
+
+###Should Know
+
+1. Validate input based on a set of conditions.
+2. Monitor a process using Python/Shell.
+3. Find processes above a CPU/memory threshold.
+4. Parse command output such as `ps`, `df`, or `kubectl`.
+5. Implement retry with exponential backoff.
+6. Implement a health checker.
+
+###Bonus
+
+1. Implement a rate limiter.
+2. Implement producer/consumer using Python threads.
