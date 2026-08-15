@@ -15,6 +15,8 @@ file = StringIO(data)
 # Skip header
 next(file) #next(file) reads and skips the next line of the file. In our case, the first line is the header:
 index={}
+threshold =80
+highcpu=[]
 for line in file:
     parts = line.split()
     cpu = float(parts[1])
@@ -27,4 +29,8 @@ for line in file:
         category = "HIGH"
 
     index.setdefault(category, []).append(pid)
+    if cpu > threshold:
+        highcpu.append((pid,cpu))
+
 print(index)
+print(highcpu)
