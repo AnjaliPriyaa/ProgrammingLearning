@@ -7,7 +7,7 @@
     "2026-08-14 09:19:12 INFO user=charlie action=login status=success\n"
     "2026-08-14 09:20:45 ERROR user=bob message=File not found\n"
     "2026-08-14 09:21:10 INFO user=alice action=logout status=success\n"
-    "2026-08-14 10:05:15 ERROR user=alice message=Database connection failed\n"
+    "2026-08-14 10:05:15 ERROR user=alice message=Failed to connect to database\n"
     "2026-08-14 10:10:20 INFO user=bob action=upload status=success\n"
     "2026-08-14 10:15:35 WARNING user=charlie action=upload status=slow\n"
     "2026-08-14 10:20:40 ERROR user=alice message=Database connection failed\n"
@@ -19,4 +19,7 @@
     "2026-08-14 11:25:05 WARNING user=alice action=login status=failed\n"
     "2026-08-14 12:00:15 INFO user=charlie action=logout status=success\n"
     "2026-08-14 12:05:30 ERROR user=alice message=Database connection failed\n"
-)
+    "2026-08-14 12:05:30 ERROR user=alice message=Failed to connect to database request_id=123\n"
+    "2026-08-14 12:05:35 ERROR user=bob message=Failed to connect to database request_id=456\n"
+    "2026-08-14 12:06:10 ERROR user=charlie message=Failed to connect to database request_id=789\n"
+    )
