@@ -47,7 +47,7 @@ def secondlargestelement(input_array):
     return secondlargest
 print(secondlargestelement(input_array))
 
-38. Find the second smallest element.
+# 38. Find the second smallest element.
 
 input_array = [12, 45, 7, 89, 23, 56, 34]
 
@@ -64,7 +64,7 @@ def secondsmallestelement(input_array):
 
 print(secondsmallestelement(input_array))
 
-39. Calculate the sum of all elements.
+# 39. Calculate the sum of all elements.
 input_array = [12, 45, -7, 89, 23, 56, -34]
 def sumofallelements(input_array):
     sum = 0
@@ -137,7 +137,7 @@ def reversearray(input_array):
 
 print(reversearray(input_array))
 
-(imp)#45. Find the first occurrence(find the index/position of the first time that element appears) of an element
+# (imp)#45. Find the first occurrence(find the index/position of the first time that element appears) of an element
 input_array = [10, 20, 30, 20, 40, 20, 50]
 target = 500
 def firstoccurence(input_array):
