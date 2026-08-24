@@ -67,9 +67,7 @@ def maxSubArray(nums):
     start = 0
     ans_start = -1
     ans_end = -1
-
     for i in range(len(nums)):
-
         # We are starting a new candidate subarray
         if sum == 0:
             start = i
