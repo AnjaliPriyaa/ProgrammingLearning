@@ -18,4 +18,10 @@ class Solution:
             else:
                 right = mid - 1
 
-        return letters[left % len(letters)]
+        if left == len(letters):
+            return letters[0]
+
+        return letters[left]
+       
+
+     
